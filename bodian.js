@@ -1,0 +1,81 @@
+{
+  "code" : 200,
+  "reqId" : "35ffd9684d682e8d96b118f4eecefe78",
+  "data" : {
+    "id" : 3106227,
+    "hasName" : 1,
+    "ipCity" : "IP：上海",
+    "userFreeInfo" : {
+      "csIsFree" : 0,
+      "csRemainSeconds" : 0,
+      "csExpireDate" : 0,
+      "csCanExtend" : 1,
+      "freeAdExpireDate" : 0,
+      "freeAdIsFree" : 0,
+      "freeAdRemainSeconds" : 0
+    },
+    "bid" : 3106227,
+    "hasWxShakeRule" : true,
+    "isBind" : 1,
+    "isPrivateFriend" : 0,
+    "token" : "852f77e609b4941ecd22078f48ed7c25",
+    "isSendInvite" : 0,
+    "payInfo" : {
+      "isSignedBoolean" : true,
+      "isCtVipBoolean" : true,
+      "isCtPayVipBoolean" : true,
+      "ctExpireDate" : 0,
+      "isVip" : 2,
+      "signedCount" : 0,
+      "isVipBoolean" : true,
+      "isBigVipBoolean" : true,
+      "bigExpireDate" : 1686412558668,
+      "signType" : 1,
+      "vipType" : 0,
+      "actVipType" : 0,
+      "bigPayExpireDate" : 1686412558668,
+      "ctPayExpireDate" : 0,
+      "isBigPayVipBoolean" : true,
+      "payExpireDate" : 1686412558668,
+      "actExpireDate" : 1735315199999,
+      "isPayVipBoolean" : false,
+      "isActVipBoolean" : false,
+      "lastPayment" : 1,
+      "payVipType" : 0,
+      "isSigned" : 0,
+      "isFreeCtVip" : true,
+      "signPayType" : 0,
+      "expireDate" : 1686412558668,
+      "grantOrderId" : ""
+    },
+    "payRights" : {
+
+    },
+    "remainActivateDays" : 0,
+    "userInfo" : {
+      "id" : 3106227,
+      "prov" : "上海",
+      "description" : "",
+      "updateTime" : "2023-11-03 22:10:39",
+      "vipType" : 0,
+      "ipCity" : "上海",
+      "isVip" : 2,
+      "authType" : 3,
+      "gender" : 1,
+      "address" : "虹口区",
+      "createTime" : "2021-12-16 22:20:57",
+      "city" : "上海市",
+      "payVipType" : 3,
+      "nickname" : "丿亻亠",
+      "bgImg" : "",
+      "headImg" : "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLCe4Uqvu2S2ftN8MIiak3WexvQwOOBMqogEJDK8p6YMSjyyxBV8w0SMJcMBAvdVNmQ7Y5BLPkhGDew/132",
+      "status" : 1
+    },
+    "customSplash" : {
+      "id" : 0
+    }
+  },
+  "msg" : "success",
+  "profileId" : "site",
+  "curTime" : 1794194238775
+}
