@@ -1,0 +1,2072 @@
+{
+  "reqinterval" : 1740,
+  "req_exp_list" : [
+    {
+      "key" : "151580",
+      "value" : "1"
+    }
+  ],
+  "user_info" : {
+    "sogou_input_user_label" : 0
+  },
+  "request_id" : "htky63ks2zac2",
+  "last_ads" : {
+    "responsed_ad_data" : "8Q1_qpR5jjA"
+  },
+  "msg" : "",
+  "data" : {
+    "7002312938192279" : {
+      "dr" : 0,
+      "msg" : "",
+      "list" : [
+        {
+          "stay_report_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=br0QW!VxW8e0tt66byIY084edYYrhdbCFXY0maZN4rEKHzFAD8Mc70wRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSMmJI_ZsmZa917xQfc8tKCmX0ZiJvORBD_IEBuV8DObPuiVofjAGye7Jw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5Vy1BrEJql8aidTgno_4FN5WWN0wKV9zHmse1yGpVAbxYra2MnXkJfOijxrWHFREsfdy0Y8LicDfyg&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22finish_type%22%3A%22__FINISH_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D",
+          "is_first_play" : false,
+          "targetid" : "1142110895",
+          "productid" : "1142110895",
+          "video" : "https:\/\/adsmind.gdtimg.com\/ads_svp_video__0bc3oyby4aadraajra7nznvdw5werz3ahdsa.f140112.mp4?dis_k=81cdbd2f83ae9ab81018179248778c82&dis_t=1793988393&sha256=a95713c9ab97b17a4c3cefecad9568f84f1109cc2f4a865d1269c12fd8bdd64f&m=226fb08212d24c44200be63bff32e012&stdfrom=25",
+          "app_landing_page" : 1,
+          "click_mode" : 2,
+          "pos_id" : "7002312938192279",
+          "splash_switch" : {
+            "enable_skip_to_animation" : true,
+            "render_mode" : 1,
+            "webview_render_wait_time" : 2,
+            "slide_sensitiveness" : 10,
+            "fobid_bgsl" : true,
+            "contract_rl_report" : false
+          },
+          "need_empty_report" : 1,
+          "sdk_proto_type" : 1,
+          "video_timelife" : 5,
+          "price" : "-",
+          "ad_second_category" : 7401,
+          "extra_card_info" : null,
+          "ad_icon" : "广告",
+          "dest_info" : {
+            "landingpage_dynamic_info" : null,
+            "external_link_open_type" : 0,
+            "landing_page_share_info" : {
+              "desc" : "查看详情"
+            }
+          },
+          "jump_android_market_info" : null,
+          "sdk_jump_type" : 1,
+          "is_alternate_ad" : 0,
+          "pkg_download_schema" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+          "uoid" : "CI2LmbrMBBCG5Jy6zAQ",
+          "reltarget" : 0,
+          "creative_feature_data_json" : "{\"gift_component\":null}\n",
+          "txt" : "点击跳转详情页或第三方应用",
+          "icon_ambience_info" : null,
+          "ad_industry_id" : 7401,
+          "endtime" : 0,
+          "easter_egg" : null,
+          "customized_invoke_url" : "snssdk1128:\/\/feed?gd_label=click_schema_gdt_dy_rlx_pcad_ml_pr_ios_nrdzz_yywy_122",
+          "inner_adshowtype" : 34,
+          "video_height" : 1280,
+          "pic_width" : 1080,
+          "negative_feedback_url" : "https:\/\/nc.gdt.qq.com\/gdt_report.fcg?viewid=br0QW!VxW8e0tt66byIY084edYYrhdbCFXY0maZN4rEKHzFAD8Mc70wRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSMmJI_ZsmZa917xQfc8tKCmX0ZiJvORBD_IEBuV8DObPuiVofjAGye7Jw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5Vy1BrEJql8aidTgno_4FN5WWN0wKV9zHmse1yGpVAbxYra2MnXkJfOijxrWHFREsfdy0Y8LicDfyg&acttype=__ACT_TYPE__&s=25&report_source=__REPORT_SOURCE__",
+          "timelife" : 5,
+          "ext" : {
+            "appclass3" : 0,
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ad79d130008404922a22702ac66bc1e0000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "desttype" : 0,
+            "appname" : "抖音",
+            "appclass" : 0,
+            "pkgmd5" : "",
+            "alist" : {
+              "2022" : {
+                "aid" : null,
+                "atype" : 2025
+              }
+            },
+            "applogo512" : "http:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ad79d13000a33110d48de1783cca9150000008d00004eec?ck=604136171f2a361dd643b21106d1b79a&m=604136171f2a361dd643b21106d1b79a&sha256=c1f6414b95cd4378e2948179489f4ccebcbe637b168ac26f124e32341145ccd6",
+            "appver" : "40.8.0",
+            "packagename" : null,
+            "creative_finger_print_productid" : "0",
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "quality_productid" : "2253862912",
+            "qzoneliked" : 0,
+            "sdk_data" : "{\"inner_adshowtype\":34,\"is_show_dialog_before_reward\":1}",
+            "appscore" : 10
+          },
+          "dynamic_creative_id" : "14391841337",
+          "pic_height" : 1920,
+          "begintime" : 1793894400,
+          "netlog_traceid" : "htky63ks2zac23d",
+          "traceid" : "htky63ks2zac23d",
+          "sdk_switch" : null,
+          "video_report_url" : "https:\/\/vr.gdt.qq.com\/gdt_stats.fcg?viewid=br0QW!VxW8e0tt66byIY084edYYrhdbCFXY0maZN4rEKHzFAD8Mc70wRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSMmJI_ZsmZa917xQfc8tKCmX0ZiJvORBD_IEBuV8DObPuiVofjAGye7Jw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5Vy1BrEJql8aidTgno_4FN5WWN0wKV9zHmse1yGpVAbxYra2MnXkJfOijxrWHFREsfdy0Y8LicDfyg&report_source=__REPORT_SOURCE__",
+          "pv_limit" : 40,
+          "is_empty" : 0,
+          "component_position_info" : null,
+          "pv_fcs" : 0,
+          "popup_poster_info" : {
+            "appear_time" : 0,
+            "disappear_time" : 0
+          },
+          "cid" : "157962154502",
+          "element_structure_content" : null,
+          "creative_template_id" : 720,
+          "ext_info" : null,
+          "pass_through_data" : {
+            "bid_info" : {
+              "loss_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=br0QW!VxW8e0tt66byIY084edYYrhdbCFXY0maZN4rEKHzFAD8Mc70wRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSMmJI_ZsmZa917xQfc8tKCmX0ZiJvORBD_IEBuV8DObPuiVofjAGye7Jw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5Vy1BrEJql8aidTgno_4FN5WWN0wKV9zHmse1yGpVAbxYra2MnXkJfOijxrWHFREsfdy0Y8LicDfyg&win_price=__AUCTION_PRICE__&win_seat=__AUCTION_SEAT_ID__&loss=__AUCTION_LOSS__&original_loss=__ORIGINAL_AUCTION_LOSS__",
+              "win_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=br0QW!VxW8e0tt66byIY084edYYrhdbCFXY0maZN4rEKHzFAD8Mc70wRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSMmJI_ZsmZa917xQfc8tKCmX0ZiJvORBD_IEBuV8DObPuiVofjAGye7Jw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5Vy1BrEJql8aidTgno_4FN5WWN0wKV9zHmse1yGpVAbxYra2MnXkJfOijxrWHFREsfdy0Y8LicDfyg&win_price=__AUCTION_PRICE__&highest_loss_price=__HIGHEST_LOSS_PRICE__"
+            },
+            "ad_extension_type" : [
+              9
+            ]
+          },
+          "sk_ad_network" : {
+            "nonce" : "F336345E-041B-4378-A3EC-DABB8F7A1F90",
+            "ad_network_id" : "f7s53z58qe.skadnetwork",
+            "campaign_id" : 66,
+            "signature" : "MEQCIDizNCS6sxc1fbnN4whlodLhgvL1gIuQZNQ9DNSPsLTOAiBjv0USW9q5fFtxS8+OrpEhNb1rlMgKRMC8FdTnP+EJFA==",
+            "timestamp_ms" : "1795598951000"
+          },
+          "ad_extension_type" : [
+            9
+          ],
+          "creative_size" : 2104,
+          "is_contract" : 0,
+          "apurl" : "https:\/\/p.l.qq.com\/p?oid=157962093965&cid=157962154502&ping_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_br0QW!VxW8e0tt66byIY084edYYrhdbCFXY0maZN4rEKHzFAD8Mc70wRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSMmJI_ZsmZa917xQfc8tKCmX0ZiJvORBD_IEBuV8DObPuiVofjAGye7Jw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5Vy1BrEJql8aidTgno_4FN5WWN0wKV9zHmse1yGpVAbxYra2MnXkJfOijxrWHFREsfdy0Y8LicDfyg&adtype=&appversion=1087586308&contract=0&i=1&os=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&wspm=1&report_source=__REPORT_SOURCE__&select_ad_type=__SELECT_AD_TYPE__&coupon_display_status=__COUPON_DISPLAY_STATUS__&tl=1",
+          "floating_zone" : null,
+          "interactive" : null,
+          "img" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6aee1701000cea4f24f280d16e6dbc1e0000008d00004eec?m=cb892c194f801a42320604cb844da823&ck=cb892c194f801a42320604cb844da823&sha256=f55206db360534a8a35d162438aecf860dac1d1eb01ea4e0f1d74f32a9a2b5d5",
+          "price_mode" : 2,
+          "sound_rate" : 50,
+          "video_file_size" : 238592,
+          "sub_type" : 1,
+          "video_duration" : 5,
+          "producttype" : 19,
+          "app_download_info" : {
+            "appver" : "40.8.0",
+            "is_yyb_platform_app" : false,
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ad79d130008404922a22702ac66bc1e0000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "appname" : "抖音",
+            "appid" : "1142110895",
+            "is_game_app" : false
+          },
+          "not_exposed" : false,
+          "mqq_landing_page" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?mt=8&uo=4",
+          "desc" : "",
+          "advertiser_id" : 83634346,
+          "hong_bao_yu" : null,
+          "action_area_item" : [
+            {
+              "area_boundary" : {
+                "margin_left_rate" : 9333,
+                "margin_bottom_rate" : 17241,
+                "area_aspect_radio" : 508333,
+                "margin_right_rate" : 9333
+              },
+              "area_type" : 2
+            }
+          ],
+          "safety_sensitive_creative_elements" : null,
+          "display_info" : {
+            "is_interactive" : false,
+            "dynamic_creative_info" : {
+              "dynamic_ad_sub_type" : 0
+            },
+            "wechat_store_info" : {
+              "product_title" : "",
+              "purchase" : 0,
+              "original_price" : 0,
+              "price" : 0,
+              "product_img_url" : ""
+            },
+            "wechat_game_info_ext" : null
+          },
+          "desttype" : 0,
+          "campaign_id" : 3343269978,
+          "video_width" : 720,
+          "mini_program_type" : 0,
+          "buyingtype" : 1,
+          "rl" : "https:\/\/c.l.qq.com\/click?oid=157962093965&cid=157962154502&click_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_br0QW!VxW8e0tt66byIY084edYYrhdbCFXY0maZN4rEKHzFAD8Mc70wRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSMmJI_ZsmZa917xQfc8tKCmX0ZiJvORBD_IEBuV8DObPuiVofjAGye7Jw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5Vy1BrEJql8aidTgno_4FN5WWN0wKV9zHmse1yGpVAbxYra2MnXkJfOijxrWHFREsfdy0Y8LicDfyg&adtype=&appversion=1087586308&contract=0&jtype=0&wspm=1&i=1&os=1&s_lp=101&clklpp=__CLICK_LPP__&cdnxj=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&pid=7002312938192279&vto=__VIDEO_PLAY_TIME__&d_d=1&rta_trid=IzZfXuivEfGn7VJUABQtPg&report_source=__REPORT_SOURCE__&site_set_name=SITE_SET_QQ_MUSIC_GAME&caid1=614b87951f0fd64a77a6a72bfb951ab0&caid2=944b363952f93240f9615a58b9c6da24&device_os_type=ios&dynamic_creative_id=14391841337&image_component_ids=1970395621712&video_component_ids=1970395621712&coupon_click_status=__COUPON_CLICK_STATUS__&tl=1",
+          "acttype" : 1,
+          "effect_url" : "https:\/\/t.gdt.qq.com\/conv\/inner\/api\/conv?client=63&product_id=1142110895&click_id=__CLICK_ID__&actionid=__ACTION_ID__&report_source=__REPORT_SOURCE__",
+          "ad_first_category" : 74,
+          "live_video_info" : {
+            "live_video_type" : 0
+          },
+          "bottom_card_url" : "https:\/\/qzs.gdtimg.com\/union\/res\/union_site\/page\/xqVideoDetailPlay\/xqVideoDetailPlay.html?cl=157962093965&trace_id=htky63ks2zac23d&site_set=25&medium_id=40905507934675",
+          "cl" : "157962093965",
+          "button_txt" : "查看详情",
+          "original_exposure_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=br0QW!VxW8e0tt66byIY084edYYrhdbCFXY0maZN4rEKHzFAD8Mc70wRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSMmJI_ZsmZa917xQfc8tKCmX0ZiJvORBD_IEBuV8DObPuiVofjAGye7Jw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5Vy1BrEJql8aidTgno_4FN5WWN0wKV9zHmse1yGpVAbxYra2MnXkJfOijxrWHFREsfdy0Y8LicDfyg&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D&report_source=__REPORT_SOURCE__&ps=201101101",
+          "creative_id" : "157962154502",
+          "tencent_video_id" : "i4702ridi76",
+          "landing_page_report_url" : "https:\/\/rpt.gdt.qq.com\/landing_page?click_id=__CLICK_ID__&trace_id=htky63ks2zac23d&pa=__PAGE_ACTION_ID__&pat=__PAGE_TIME__&lec=__LANDING_ERROR_CODE__&ot=__OS_TYPE__&ver=__VERSION__",
+          "sound_on" : 0,
+          "is_qq_mini_game" : false
+        },
+        {
+          "stay_report_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY0wy3XCFJJihXxWE3!zKVaNFQu1yhUYmW6swHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4Oa0Fj4nMuoAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgcJa2aPtcUvaN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQjqB71HtmSN3V0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22finish_type%22%3A%22__FINISH_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D",
+          "is_first_play" : false,
+          "targetid" : "1142110895",
+          "productid" : "1142110895",
+          "video" : "https:\/\/adsmind.gdtimg.com\/ads_svp_video__0bc3auabsaaaaaaoun7y75vdqboedecqagka.f140112.mp4?dis_k=63332b994baf6bb63df4b43c955f4799&dis_t=1794700053&sha256=f25d17dc9e2f63418d752d9caa56a1cd9f2df69168577a92f8010e658e9ee5df&m=d68c097638f0b8b7876d99436c3f00ba&stdfrom=25",
+          "app_landing_page" : 1,
+          "click_mode" : 2,
+          "pos_id" : "7002312938192279",
+          "splash_switch" : {
+            "enable_skip_to_animation" : false,
+            "render_mode" : 1,
+            "webview_render_wait_time" : 200,
+            "slide_sensitiveness" : 10,
+            "fobid_bgsl" : true,
+            "contract_rl_report" : false
+          },
+          "need_empty_report" : 1,
+          "sdk_proto_type" : 1,
+          "video_timelife" : 5,
+          "price" : "-",
+          "ad_second_category" : 7401,
+          "extra_card_info" : null,
+          "ad_icon" : "广告",
+          "dest_info" : {
+            "landingpage_dynamic_info" : null,
+            "external_link_open_type" : 0,
+            "landing_page_share_info" : {
+              "desc" : "查看详情"
+            }
+          },
+          "jump_android_market_info" : null,
+          "sdk_jump_type" : 1,
+          "is_alternate_ad" : 0,
+          "pkg_download_schema" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+          "uoid" : "CJmJu9fYBBCnroap2QQ",
+          "reltarget" : 0,
+          "creative_feature_data_json" : "{\"gift_component\":null}\n",
+          "txt" : "点击跳转详情页或第三方应用",
+          "icon_ambience_info" : null,
+          "ad_industry_id" : 7401,
+          "endtime" : 0,
+          "easter_egg" : null,
+          "customized_invoke_url" : "snssdk1128:\/\/feed?gd_label=click_schema_lhnewbh_gdt_rlx_pdr_media_zdh_ios_5224_v3_9gw",
+          "inner_adshowtype" : 34,
+          "video_height" : 1280,
+          "pic_width" : 1080,
+          "negative_feedback_url" : "https:\/\/nc.gdt.qq.com\/gdt_report.fcg?viewid=ZgaWWjZRhRS0tt66byIY0wy3XCFJJihXxWE3!zKVaNFQu1yhUYmW6swHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4Oa0Fj4nMuoAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgcJa2aPtcUvaN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQjqB71HtmSN3V0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&acttype=__ACT_TYPE__&s=25&report_source=__REPORT_SOURCE__",
+          "timelife" : 5,
+          "ext" : {
+            "appclass3" : 0,
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ae99f74000445100072f5d83b6bae1e0000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "desttype" : 0,
+            "appname" : "抖音",
+            "appclass" : 0,
+            "pkgmd5" : "",
+            "alist" : {
+              "2022" : {
+                "aid" : null,
+                "atype" : 2025
+              }
+            },
+            "applogo512" : "http:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ae99f7400064208051cf0bc6266bc1e0000008d00004eec?ck=604136171f2a361dd643b21106d1b79a&m=604136171f2a361dd643b21106d1b79a&sha256=c1f6414b95cd4378e2948179489f4ccebcbe637b168ac26f124e32341145ccd6",
+            "appver" : "40.8.0",
+            "packagename" : null,
+            "creative_finger_print_productid" : "0",
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "quality_productid" : "2253862912",
+            "qzoneliked" : 0,
+            "sdk_data" : "{\"inner_adshowtype\":34,\"is_show_dialog_before_reward\":1}",
+            "appscore" : 10
+          },
+          "dynamic_creative_id" : "14704317200",
+          "pic_height" : 1920,
+          "begintime" : 1794499200,
+          "netlog_traceid" : "htky63ks2zac23e",
+          "traceid" : "htky63ks2zac23e",
+          "sdk_switch" : null,
+          "video_report_url" : "https:\/\/vr.gdt.qq.com\/gdt_stats.fcg?viewid=ZgaWWjZRhRS0tt66byIY0wy3XCFJJihXxWE3!zKVaNFQu1yhUYmW6swHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4Oa0Fj4nMuoAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgcJa2aPtcUvaN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQjqB71HtmSN3V0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&report_source=__REPORT_SOURCE__",
+          "pv_limit" : 40,
+          "is_empty" : 0,
+          "component_position_info" : null,
+          "pv_fcs" : 0,
+          "popup_poster_info" : {
+            "appear_time" : 0,
+            "disappear_time" : 0
+          },
+          "cid" : "161415796519",
+          "element_structure_content" : null,
+          "creative_template_id" : 720,
+          "ext_info" : null,
+          "pass_through_data" : {
+            "bid_info" : {
+              "loss_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY0wy3XCFJJihXxWE3!zKVaNFQu1yhUYmW6swHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4Oa0Fj4nMuoAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgcJa2aPtcUvaN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQjqB71HtmSN3V0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&win_seat=__AUCTION_SEAT_ID__&loss=__AUCTION_LOSS__&original_loss=__ORIGINAL_AUCTION_LOSS__",
+              "win_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY0wy3XCFJJihXxWE3!zKVaNFQu1yhUYmW6swHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4Oa0Fj4nMuoAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgcJa2aPtcUvaN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQjqB71HtmSN3V0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&highest_loss_price=__HIGHEST_LOSS_PRICE__"
+            },
+            "ad_extension_type" : [
+              9
+            ]
+          },
+          "sk_ad_network" : {
+            "nonce" : "92E61A15-AA71-428C-8460-960915D08642",
+            "ad_network_id" : "f7s53z58qe.skadnetwork",
+            "campaign_id" : 58,
+            "signature" : "MEQCIG\/oz+FeYlwdYlUeWAFwGTp6nY9bQA8ZoqJueyQuNxRrAiA9bEKZosyPpS5Qw4l54VloAmFSGTlVhfO740o1Zv6+eA==",
+            "timestamp_ms" : "1795598951000"
+          },
+          "ad_extension_type" : [
+            9
+          ],
+          "creative_size" : 2104,
+          "is_contract" : 0,
+          "apurl" : "https:\/\/p.l.qq.com\/p?oid=161244693657&cid=161415796519&ping_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY0wy3XCFJJihXxWE3!zKVaNFQu1yhUYmW6swHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4Oa0Fj4nMuoAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgcJa2aPtcUvaN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQjqB71HtmSN3V0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&i=1&os=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&wspm=1&report_source=__REPORT_SOURCE__&select_ad_type=__SELECT_AD_TYPE__&coupon_display_status=__COUPON_DISPLAY_STATUS__&tl=1",
+          "floating_zone" : null,
+          "interactive" : null,
+          "img" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af8f2ec000a51a90d0632ad5364bc1e0000008d00004eec?m=47b1e7e76810eabf1bff3485b7768d1c&ck=47b1e7e76810eabf1bff3485b7768d1c&sha256=cebce960c9590dfd7d9b7270a0911a432248fbcd0e31d78ccfc1844988e2fe77",
+          "price_mode" : 2,
+          "sound_rate" : 50,
+          "video_file_size" : 250880,
+          "sub_type" : 1,
+          "video_duration" : 5,
+          "producttype" : 19,
+          "app_download_info" : {
+            "appver" : "40.8.0",
+            "is_yyb_platform_app" : false,
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ae99f74000445100072f5d83b6bae1e0000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "appname" : "抖音",
+            "appid" : "1142110895",
+            "is_game_app" : false
+          },
+          "not_exposed" : false,
+          "mqq_landing_page" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?mt=8&uo=4",
+          "desc" : "",
+          "advertiser_id" : 93105224,
+          "hong_bao_yu" : null,
+          "action_area_item" : [
+            {
+              "area_boundary" : {
+                "margin_left_rate" : 9333,
+                "margin_bottom_rate" : 17241,
+                "area_aspect_radio" : 508333,
+                "margin_right_rate" : 9333
+              },
+              "area_type" : 2
+            }
+          ],
+          "safety_sensitive_creative_elements" : null,
+          "display_info" : {
+            "is_interactive" : false,
+            "dynamic_creative_info" : {
+              "dynamic_ad_sub_type" : 0
+            },
+            "wechat_store_info" : {
+              "product_title" : "",
+              "purchase" : 0,
+              "original_price" : 0,
+              "price" : 0,
+              "product_img_url" : ""
+            },
+            "wechat_game_info_ext" : null
+          },
+          "desttype" : 0,
+          "campaign_id" : 2330901995,
+          "video_width" : 720,
+          "mini_program_type" : 0,
+          "buyingtype" : 1,
+          "rl" : "https:\/\/c.l.qq.com\/click?oid=161244693657&cid=161415796519&click_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY0wy3XCFJJihXxWE3!zKVaNFQu1yhUYmW6swHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4Oa0Fj4nMuoAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgcJa2aPtcUvaN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQjqB71HtmSN3V0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&jtype=0&wspm=1&i=1&os=1&s_lp=101&clklpp=__CLICK_LPP__&cdnxj=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&pid=7002312938192279&vto=__VIDEO_PLAY_TIME__&d_d=1&rta_trid=IzZfXuivEfGn7VJUABQtPg&report_source=__REPORT_SOURCE__&site_set_name=SITE_SET_QQ_MUSIC_GAME&caid1=614b87951f0fd64a77a6a72bfb951ab0&caid2=944b363952f93240f9615a58b9c6da24&device_os_type=ios&dynamic_creative_id=14704317200&image_component_ids=1972227289179&video_component_ids=1972227289179&coupon_click_status=__COUPON_CLICK_STATUS__&tl=1",
+          "acttype" : 1,
+          "effect_url" : "https:\/\/t.gdt.qq.com\/conv\/inner\/api\/conv?client=63&product_id=1142110895&click_id=__CLICK_ID__&actionid=__ACTION_ID__&report_source=__REPORT_SOURCE__",
+          "ad_first_category" : 74,
+          "live_video_info" : {
+            "live_video_type" : 0
+          },
+          "bottom_card_url" : "https:\/\/qzs.gdtimg.com\/union\/res\/union_site\/page\/xqVideoDetailPlay\/xqVideoDetailPlay.html?cl=161244693657&trace_id=htky63ks2zac23e&site_set=25&medium_id=40905507934675",
+          "cl" : "161244693657",
+          "button_txt" : "查看详情",
+          "original_exposure_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY0wy3XCFJJihXxWE3!zKVaNFQu1yhUYmW6swHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4Oa0Fj4nMuoAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgcJa2aPtcUvaN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQjqB71HtmSN3V0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D&report_source=__REPORT_SOURCE__&ps=201101101",
+          "creative_id" : "161415796519",
+          "tencent_video_id" : "m4713ply9du",
+          "landing_page_report_url" : "https:\/\/rpt.gdt.qq.com\/landing_page?click_id=__CLICK_ID__&trace_id=htky63ks2zac23e&pa=__PAGE_ACTION_ID__&pat=__PAGE_TIME__&lec=__LANDING_ERROR_CODE__&ot=__OS_TYPE__&ver=__VERSION__",
+          "sound_on" : 0,
+          "is_qq_mini_game" : false
+        },
+        {
+          "stay_report_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=2oeo6KgZI9O0tt66byIY07yEGiBk1xB68HARhDgbXOtANg!H3qjcuUwRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSHFJn7RpXIF7I0vuOI0fRIqX0ZiJvORBD_IEBuV8DObPBI0!aoc98NnJw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5VxBmgX9nqjwyWZGB9HsV0woWmqo5N_phVo9uPYVQ94p26H0UC12aK18D_LiydG6LQk&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22finish_type%22%3A%22__FINISH_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D",
+          "is_first_play" : false,
+          "targetid" : "1142110895",
+          "productid" : "1142110895",
+          "app_landing_page" : 1,
+          "click_mode" : 2,
+          "pos_id" : "7002312938192279",
+          "splash_switch" : {
+            "enable_skip_to_animation" : false,
+            "render_mode" : 1,
+            "webview_render_wait_time" : 200,
+            "slide_sensitiveness" : 10,
+            "fobid_bgsl" : true,
+            "contract_rl_report" : false
+          },
+          "need_empty_report" : 1,
+          "sdk_proto_type" : 1,
+          "price" : "-",
+          "ad_second_category" : 114,
+          "extra_card_info" : null,
+          "ad_icon" : "广告",
+          "dest_info" : {
+            "landingpage_dynamic_info" : null,
+            "external_link_open_type" : 0,
+            "landing_page_share_info" : {
+              "desc" : "查看详情"
+            }
+          },
+          "jump_android_market_info" : null,
+          "sdk_jump_type" : 1,
+          "is_alternate_ad" : 0,
+          "pkg_download_schema" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+          "uoid" : "CNWlj4frBBDS3qCV6wQ",
+          "reltarget" : 0,
+          "creative_feature_data_json" : "{\"gift_component\":null}\n",
+          "txt" : "点击跳转详情页或第三方应用",
+          "icon_ambience_info" : null,
+          "ad_industry_id" : 114,
+          "endtime" : 0,
+          "easter_egg" : null,
+          "customized_invoke_url" : "snssdk1128:\/\/feed?gd_label=click_schema_lhnewbh_gdt_rlx_pdr_media_zdh_ios_1433_v3_dex",
+          "inner_adshowtype" : 0,
+          "pic_width" : 1080,
+          "negative_feedback_url" : "https:\/\/nc.gdt.qq.com\/gdt_report.fcg?viewid=2oeo6KgZI9O0tt66byIY07yEGiBk1xB68HARhDgbXOtANg!H3qjcuUwRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSHFJn7RpXIF7I0vuOI0fRIqX0ZiJvORBD_IEBuV8DObPBI0!aoc98NnJw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5VxBmgX9nqjwyWZGB9HsV0woWmqo5N_phVo9uPYVQ94p26H0UC12aK18D_LiydG6LQk&acttype=__ACT_TYPE__&s=25&report_source=__REPORT_SOURCE__",
+          "timelife" : 5,
+          "ext" : {
+            "appclass3" : 0,
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ad79e3f000951d31d4f9ebc6749af150000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "desttype" : 0,
+            "appname" : "抖音",
+            "appclass" : 0,
+            "pkgmd5" : "",
+            "alist" : {
+              "2022" : {
+                "aid" : null,
+                "atype" : 2025
+              }
+            },
+            "applogo512" : "http:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ad79e3f000baae01c05849fb14b88090000008d00004eec?ck=604136171f2a361dd643b21106d1b79a&m=604136171f2a361dd643b21106d1b79a&sha256=c1f6414b95cd4378e2948179489f4ccebcbe637b168ac26f124e32341145ccd6",
+            "appver" : "40.8.0",
+            "packagename" : null,
+            "creative_finger_print_productid" : "0",
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "quality_productid" : "2253862912",
+            "qzoneliked" : 0,
+            "sdk_data" : "{\"inner_adshowtype\":0,\"is_show_dialog_before_reward\":1}",
+            "appscore" : 10
+          },
+          "dynamic_creative_id" : "15109157364",
+          "pic_height" : 1920,
+          "begintime" : 1795449600,
+          "netlog_traceid" : "htky63ks2zac23f",
+          "traceid" : "htky63ks2zac23f",
+          "sdk_switch" : null,
+          "pv_limit" : 40,
+          "is_empty" : 0,
+          "component_position_info" : null,
+          "pv_fcs" : 0,
+          "popup_poster_info" : {
+            "appear_time" : 0,
+            "disappear_time" : 0
+          },
+          "cid" : "166206123858",
+          "element_structure_content" : null,
+          "creative_template_id" : 721,
+          "ext_info" : null,
+          "pass_through_data" : {
+            "bid_info" : {
+              "loss_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=2oeo6KgZI9O0tt66byIY07yEGiBk1xB68HARhDgbXOtANg!H3qjcuUwRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSHFJn7RpXIF7I0vuOI0fRIqX0ZiJvORBD_IEBuV8DObPBI0!aoc98NnJw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5VxBmgX9nqjwyWZGB9HsV0woWmqo5N_phVo9uPYVQ94p26H0UC12aK18D_LiydG6LQk&win_price=__AUCTION_PRICE__&win_seat=__AUCTION_SEAT_ID__&loss=__AUCTION_LOSS__&original_loss=__ORIGINAL_AUCTION_LOSS__",
+              "win_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=2oeo6KgZI9O0tt66byIY07yEGiBk1xB68HARhDgbXOtANg!H3qjcuUwRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSHFJn7RpXIF7I0vuOI0fRIqX0ZiJvORBD_IEBuV8DObPBI0!aoc98NnJw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5VxBmgX9nqjwyWZGB9HsV0woWmqo5N_phVo9uPYVQ94p26H0UC12aK18D_LiydG6LQk&win_price=__AUCTION_PRICE__&highest_loss_price=__HIGHEST_LOSS_PRICE__"
+            },
+            "ad_extension_type" : [
+              9
+            ]
+          },
+          "sk_ad_network" : {
+            "nonce" : "4AD446D9-B9BB-4E97-81D2-0C81AB444454",
+            "ad_network_id" : "f7s53z58qe.skadnetwork",
+            "campaign_id" : 10,
+            "signature" : "MEQCIGgQTZReiZ45TalXvKwDZWC4Yi3ol8L2vKZGRaHMcU99AiBafaHgbgZWrjQ73F8mmxPM8GUvjl06ub2XK\/N\/n9zX0g==",
+            "timestamp_ms" : "1795598951000"
+          },
+          "ad_extension_type" : [
+            9
+          ],
+          "creative_size" : 2178,
+          "is_contract" : 0,
+          "apurl" : "https:\/\/p.l.qq.com\/p?oid=166176477909&cid=166206123858&ping_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_2oeo6KgZI9O0tt66byIY07yEGiBk1xB68HARhDgbXOtANg!H3qjcuUwRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSHFJn7RpXIF7I0vuOI0fRIqX0ZiJvORBD_IEBuV8DObPBI0!aoc98NnJw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5VxBmgX9nqjwyWZGB9HsV0woWmqo5N_phVo9uPYVQ94p26H0UC12aK18D_LiydG6LQk&adtype=&appversion=1087586308&contract=0&i=1&os=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&wspm=1&report_source=__REPORT_SOURCE__&select_ad_type=__SELECT_AD_TYPE__&coupon_display_status=__COUPON_DISPLAY_STATUS__&tl=1",
+          "floating_zone" : null,
+          "interactive" : null,
+          "img" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6b0529120000f8350d4105c93e67bc1e0000008d00004eec?ck=92ab2066649e910393f2e9eeb3e0ab69&m=92ab2066649e910393f2e9eeb3e0ab69&sha256=d986477f33e920ecc102cbbbc2c38bb24d3d8ff3cd0ce3dc3807e2a2aa435bf6",
+          "price_mode" : 2,
+          "sound_rate" : 50,
+          "sub_type" : 0,
+          "producttype" : 19,
+          "app_download_info" : {
+            "appver" : "40.8.0",
+            "is_yyb_platform_app" : false,
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ad79e3f000951d31d4f9ebc6749af150000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "appname" : "抖音",
+            "appid" : "1142110895",
+            "is_game_app" : false
+          },
+          "not_exposed" : false,
+          "mqq_landing_page" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?mt=8&uo=4",
+          "desc" : "",
+          "advertiser_id" : 83621433,
+          "hong_bao_yu" : null,
+          "action_area_item" : [
+            {
+              "area_boundary" : {
+                "margin_left_rate" : 9333,
+                "margin_bottom_rate" : 17241,
+                "area_aspect_radio" : 508333,
+                "margin_right_rate" : 9333
+              },
+              "area_type" : 2
+            }
+          ],
+          "safety_sensitive_creative_elements" : null,
+          "display_info" : {
+            "is_interactive" : false,
+            "dynamic_creative_info" : {
+              "dynamic_ad_sub_type" : 0
+            },
+            "wechat_store_info" : {
+              "product_title" : "",
+              "purchase" : 0,
+              "original_price" : 0,
+              "price" : 0,
+              "product_img_url" : ""
+            },
+            "wechat_game_info_ext" : null
+          },
+          "desttype" : 0,
+          "campaign_id" : 2967718473,
+          "mini_program_type" : 0,
+          "buyingtype" : 1,
+          "rl" : "https:\/\/c.l.qq.com\/click?oid=166176477909&cid=166206123858&click_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_2oeo6KgZI9O0tt66byIY07yEGiBk1xB68HARhDgbXOtANg!H3qjcuUwRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSHFJn7RpXIF7I0vuOI0fRIqX0ZiJvORBD_IEBuV8DObPBI0!aoc98NnJw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5VxBmgX9nqjwyWZGB9HsV0woWmqo5N_phVo9uPYVQ94p26H0UC12aK18D_LiydG6LQk&adtype=&appversion=1087586308&contract=0&jtype=0&wspm=1&i=1&os=1&s_lp=101&clklpp=__CLICK_LPP__&cdnxj=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&pid=7002312938192279&vto=__VIDEO_PLAY_TIME__&d_d=1&rta_trid=IzZfXuivEfGn7VJUABQtPg&report_source=__REPORT_SOURCE__&site_set_name=SITE_SET_QQ_MUSIC_GAME&caid1=614b87951f0fd64a77a6a72bfb951ab0&caid2=944b363952f93240f9615a58b9c6da24&device_os_type=ios&dynamic_creative_id=15109157364&image_component_ids=1977735847427&description_component_ids=1977735842723&coupon_click_status=__COUPON_CLICK_STATUS__&tl=1",
+          "acttype" : 1,
+          "effect_url" : "https:\/\/t.gdt.qq.com\/conv\/inner\/api\/conv?client=63&product_id=1142110895&click_id=__CLICK_ID__&actionid=__ACTION_ID__&report_source=__REPORT_SOURCE__",
+          "ad_first_category" : 1,
+          "live_video_info" : {
+            "live_video_type" : 0
+          },
+          "cl" : "166176477909",
+          "button_txt" : "查看详情",
+          "original_exposure_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=2oeo6KgZI9O0tt66byIY07yEGiBk1xB68HARhDgbXOtANg!H3qjcuUwRrVRs7nxv6297lwa2A61UkQa7_8DTMsR9NpBIStT_wsYwkDBimzoSvANLQ2QaSHFJn7RpXIF7I0vuOI0fRIqX0ZiJvORBD_IEBuV8DObPBI0!aoc98NnJw7Hco!IPpYsvt8cnDAIRnDJCmMtDqzkzzO481rORGRYryj!cclqF8BNQtCRyJe9!d6bU4oouG0RQ2qVe5Io1lVNBVJJY68pMtL6TuKcLXGYxHQIl5tb1Xa2LeeOc7XXb5oePlhEzhNRBAHTmCJdw0fn_Huf_5VxBmgX9nqjwyWZGB9HsV0woWmqo5N_phVo9uPYVQ94p26H0UC12aK18D_LiydG6LQk&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D&report_source=__REPORT_SOURCE__&ps=201101101",
+          "creative_id" : "166206123858",
+          "landing_page_report_url" : "https:\/\/rpt.gdt.qq.com\/landing_page?click_id=__CLICK_ID__&trace_id=htky63ks2zac23f&pa=__PAGE_ACTION_ID__&pat=__PAGE_TIME__&lec=__LANDING_ERROR_CODE__&ot=__OS_TYPE__&ver=__VERSION__",
+          "sound_on" : 0,
+          "is_qq_mini_game" : false
+        },
+        {
+          "stay_report_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY01wthz8ZFVXnlqP1mGXh0QcKo_INNfjhFTogxuU7UbUHmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4ApwoksqCXzAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgOENI!6l8D9WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKRa0Ub_ErYZSHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22finish_type%22%3A%22__FINISH_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D",
+          "is_first_play" : false,
+          "targetid" : "1142110895",
+          "productid" : "1142110895",
+          "video" : "https:\/\/adsmind.gdtimg.com\/ads_svp_video__0bc37eaamaaabyah67qc35vtr6oea34qabsa.f140112.mp4?dis_k=8dce85f207d03c59074bbf0baaa5bca2&dis_t=1795324465&sha256=ac3926954a52a62db07c518f4966271f6d8e03848a21a0b71979dd36d2378d1c&m=9f2c13a8c9d20dc656af493d28af5d04&stdfrom=25",
+          "app_landing_page" : 1,
+          "click_mode" : 2,
+          "pos_id" : "7002312938192279",
+          "splash_switch" : {
+            "enable_skip_to_animation" : false,
+            "render_mode" : 1,
+            "webview_render_wait_time" : 200,
+            "slide_sensitiveness" : 10,
+            "fobid_bgsl" : true,
+            "contract_rl_report" : false
+          },
+          "need_empty_report" : 1,
+          "sdk_proto_type" : 1,
+          "video_timelife" : 5,
+          "price" : "-",
+          "ad_second_category" : 7401,
+          "extra_card_info" : null,
+          "ad_icon" : "广告",
+          "dest_info" : {
+            "landingpage_dynamic_info" : null,
+            "external_link_open_type" : 0,
+            "landing_page_share_info" : {
+              "desc" : "查看详情"
+            }
+          },
+          "jump_android_market_info" : null,
+          "sdk_jump_type" : 1,
+          "is_alternate_ad" : 0,
+          "pkg_download_schema" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+          "uoid" : "CLqolbjiBBDE1pWt4wQ",
+          "reltarget" : 0,
+          "creative_feature_data_json" : "{\"gift_component\":null}\n",
+          "txt" : "点击跳转详情页或第三方应用",
+          "icon_ambience_info" : null,
+          "ad_industry_id" : 7401,
+          "endtime" : 0,
+          "easter_egg" : null,
+          "customized_invoke_url" : "snssdk1128:\/\/feed?gd_label=click_schema_lhnewbh_gdt_rlx_pdr_media_zdh_ios_4990_v3_qkf",
+          "inner_adshowtype" : 34,
+          "video_height" : 1280,
+          "pic_width" : 1080,
+          "negative_feedback_url" : "https:\/\/nc.gdt.qq.com\/gdt_report.fcg?viewid=ZgaWWjZRhRS0tt66byIY01wthz8ZFVXnlqP1mGXh0QcKo_INNfjhFTogxuU7UbUHmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4ApwoksqCXzAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgOENI!6l8D9WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKRa0Ub_ErYZSHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&acttype=__ACT_TYPE__&s=25&report_source=__REPORT_SOURCE__",
+          "timelife" : 5,
+          "ext" : {
+            "appclass3" : 0,
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ae9a873000c89ec2c5a4d40f82276150000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "desttype" : 0,
+            "appname" : "抖音",
+            "appclass" : 0,
+            "pkgmd5" : "",
+            "alist" : {
+              "2022" : {
+                "aid" : null,
+                "atype" : 2025
+              }
+            },
+            "applogo512" : "http:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ae9a873000ef38924af0880c563bc1e0000008d00004eec?ck=604136171f2a361dd643b21106d1b79a&m=604136171f2a361dd643b21106d1b79a&sha256=c1f6414b95cd4378e2948179489f4ccebcbe637b168ac26f124e32341145ccd6",
+            "appver" : "40.8.0",
+            "packagename" : null,
+            "creative_finger_print_productid" : "0",
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "quality_productid" : "2253862912",
+            "qzoneliked" : 0,
+            "sdk_data" : "{\"inner_adshowtype\":34,\"is_show_dialog_before_reward\":1}",
+            "appscore" : 10
+          },
+          "dynamic_creative_id" : "14933523205",
+          "pic_height" : 1920,
+          "begintime" : 1794931200,
+          "netlog_traceid" : "htky63ks2zac240",
+          "traceid" : "htky63ks2zac240",
+          "sdk_switch" : null,
+          "video_report_url" : "https:\/\/vr.gdt.qq.com\/gdt_stats.fcg?viewid=ZgaWWjZRhRS0tt66byIY01wthz8ZFVXnlqP1mGXh0QcKo_INNfjhFTogxuU7UbUHmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4ApwoksqCXzAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgOENI!6l8D9WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKRa0Ub_ErYZSHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&report_source=__REPORT_SOURCE__",
+          "pv_limit" : 40,
+          "is_empty" : 0,
+          "component_position_info" : null,
+          "pv_fcs" : 0,
+          "popup_poster_info" : {
+            "appear_time" : 0,
+            "disappear_time" : 0
+          },
+          "cid" : "164108790596",
+          "element_structure_content" : null,
+          "creative_template_id" : 720,
+          "ext_info" : null,
+          "pass_through_data" : {
+            "bid_info" : {
+              "loss_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY01wthz8ZFVXnlqP1mGXh0QcKo_INNfjhFTogxuU7UbUHmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4ApwoksqCXzAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgOENI!6l8D9WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKRa0Ub_ErYZSHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&win_seat=__AUCTION_SEAT_ID__&loss=__AUCTION_LOSS__&original_loss=__ORIGINAL_AUCTION_LOSS__",
+              "win_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY01wthz8ZFVXnlqP1mGXh0QcKo_INNfjhFTogxuU7UbUHmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4ApwoksqCXzAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgOENI!6l8D9WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKRa0Ub_ErYZSHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&highest_loss_price=__HIGHEST_LOSS_PRICE__"
+            },
+            "ad_extension_type" : [
+              9
+            ]
+          },
+          "sk_ad_network" : {
+            "nonce" : "CFC6B723-E81D-402D-97E6-AC2FA40BB461",
+            "ad_network_id" : "f7s53z58qe.skadnetwork",
+            "campaign_id" : 15,
+            "signature" : "MEYCIQCX5tFgkjUZxe4es+igCMtz6jwko3YQG4Riz8r5GhMkkwIhAJRlm8IAlbZR0vOpe3h+KqVnreLXCRUsFR6+g6Qkjdjo",
+            "timestamp_ms" : "1795598951000"
+          },
+          "ad_extension_type" : [
+            9
+          ],
+          "creative_size" : 2104,
+          "is_contract" : 0,
+          "apurl" : "https:\/\/p.l.qq.com\/p?oid=163863417914&cid=164108790596&ping_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY01wthz8ZFVXnlqP1mGXh0QcKo_INNfjhFTogxuU7UbUHmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4ApwoksqCXzAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgOENI!6l8D9WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKRa0Ub_ErYZSHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&i=1&os=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&wspm=1&report_source=__REPORT_SOURCE__&select_ad_type=__SELECT_AD_TYPE__&coupon_display_status=__COUPON_DISPLAY_STATUS__&tl=1",
+          "floating_zone" : null,
+          "interactive" : null,
+          "img" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6b0279df000510ae21361917c8908e0b0000008d00004eec?m=aea44dd5c14ae988e79cca72c87b5e5c&ck=aea44dd5c14ae988e79cca72c87b5e5c&sha256=ee8733e77fb8a4df6ab85c1b7f18beaa0dd5831dce666f31740e52e6b3271cbd",
+          "price_mode" : 2,
+          "sound_rate" : 50,
+          "video_file_size" : 276480,
+          "sub_type" : 1,
+          "video_duration" : 5,
+          "producttype" : 19,
+          "app_download_info" : {
+            "appver" : "40.8.0",
+            "is_yyb_platform_app" : false,
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ae9a873000c89ec2c5a4d40f82276150000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "appname" : "抖音",
+            "appid" : "1142110895",
+            "is_game_app" : false
+          },
+          "not_exposed" : false,
+          "mqq_landing_page" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?mt=8&uo=4",
+          "desc" : "",
+          "advertiser_id" : 93104990,
+          "hong_bao_yu" : null,
+          "action_area_item" : [
+            {
+              "area_boundary" : {
+                "margin_left_rate" : 9333,
+                "margin_bottom_rate" : 17241,
+                "area_aspect_radio" : 508333,
+                "margin_right_rate" : 9333
+              },
+              "area_type" : 2
+            }
+          ],
+          "safety_sensitive_creative_elements" : null,
+          "display_info" : {
+            "is_interactive" : false,
+            "dynamic_creative_info" : {
+              "dynamic_ad_sub_type" : 0
+            },
+            "wechat_store_info" : {
+              "product_title" : "",
+              "purchase" : 0,
+              "original_price" : 0,
+              "price" : 0,
+              "product_img_url" : ""
+            },
+            "wechat_game_info_ext" : null
+          },
+          "desttype" : 0,
+          "campaign_id" : 654656358,
+          "video_width" : 720,
+          "mini_program_type" : 0,
+          "buyingtype" : 1,
+          "rl" : "https:\/\/c.l.qq.com\/click?oid=163863417914&cid=164108790596&click_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY01wthz8ZFVXnlqP1mGXh0QcKo_INNfjhFTogxuU7UbUHmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4ApwoksqCXzAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgOENI!6l8D9WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKRa0Ub_ErYZSHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&jtype=0&wspm=1&i=1&os=1&s_lp=101&clklpp=__CLICK_LPP__&cdnxj=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&pid=7002312938192279&vto=__VIDEO_PLAY_TIME__&d_d=1&rta_trid=IzZfXuivEfGn7VJUABQtPg&report_source=__REPORT_SOURCE__&site_set_name=SITE_SET_QQ_MUSIC_GAME&caid1=614b87951f0fd64a77a6a72bfb951ab0&caid2=944b363952f93240f9615a58b9c6da24&device_os_type=ios&dynamic_creative_id=14933523205&image_component_ids=1975892485049&video_component_ids=1975892485049&coupon_click_status=__COUPON_CLICK_STATUS__&tl=1",
+          "acttype" : 1,
+          "effect_url" : "https:\/\/t.gdt.qq.com\/conv\/inner\/api\/conv?client=63&product_id=1142110895&click_id=__CLICK_ID__&actionid=__ACTION_ID__&report_source=__REPORT_SOURCE__",
+          "ad_first_category" : 74,
+          "live_video_info" : {
+            "live_video_type" : 0
+          },
+          "bottom_card_url" : "https:\/\/qzs.gdtimg.com\/union\/res\/union_site\/page\/xqVideoDetailPlay\/xqVideoDetailPlay.html?cl=163863417914&trace_id=htky63ks2zac240&site_set=25&medium_id=40905507934675",
+          "cl" : "163863417914",
+          "button_txt" : "查看详情",
+          "original_exposure_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY01wthz8ZFVXnlqP1mGXh0QcKo_INNfjhFTogxuU7UbUHmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4ApwoksqCXzAelCXHrw3jPNq59L_dpZENsRxVzUGn8tgOENI!6l8D9WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKRa0Ub_ErYZSHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D&report_source=__REPORT_SOURCE__&ps=201101101",
+          "creative_id" : "164108790596",
+          "tencent_video_id" : "y47228dy9jq",
+          "landing_page_report_url" : "https:\/\/rpt.gdt.qq.com\/landing_page?click_id=__CLICK_ID__&trace_id=htky63ks2zac240&pa=__PAGE_ACTION_ID__&pat=__PAGE_TIME__&lec=__LANDING_ERROR_CODE__&ot=__OS_TYPE__&ver=__VERSION__",
+          "sound_on" : 0,
+          "is_qq_mini_game" : false
+        },
+        {
+          "stay_report_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY03GsnBYFPTRhj9kQiSF7a!pPUNgTe3Ocf_E!SgSmXX3KmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4HLYuDdvhd00elCXHrw3jPNq59L_dpZENsRxVzUGn8tgKc4WXBw7VZGN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQcG6IBhbFsxHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22finish_type%22%3A%22__FINISH_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D",
+          "is_first_play" : false,
+          "targetid" : "1142110895",
+          "productid" : "1142110895",
+          "video" : "https:\/\/adsmind.gdtimg.com\/ads_svp_video__0bc36mcxoaafrqapjahxajvd346eo7zqk52a.f140112.mp4?dis_k=644227dbad6ab13004d1ebf3bb4c85d8&dis_t=1794278382&sha256=b93bc9ac9e6141fb3e56468a925e38740965f52399dba071a54c665ff60279c5&m=2701bfe8532e61fceb50c242db94b70d&stdfrom=25",
+          "app_landing_page" : 1,
+          "click_mode" : 2,
+          "pos_id" : "7002312938192279",
+          "splash_switch" : {
+            "enable_skip_to_animation" : false,
+            "render_mode" : 1,
+            "webview_render_wait_time" : 200,
+            "slide_sensitiveness" : 10,
+            "fobid_bgsl" : true,
+            "contract_rl_report" : false
+          },
+          "need_empty_report" : 1,
+          "sdk_proto_type" : 1,
+          "video_timelife" : 5,
+          "price" : "-",
+          "ad_second_category" : 7401,
+          "extra_card_info" : null,
+          "ad_icon" : "广告",
+          "dest_info" : {
+            "landingpage_dynamic_info" : null,
+            "landing_page_share_info" : {
+              "desc" : "查看详情"
+            },
+            "external_link_open_type" : 0,
+            "extend_link_type" : 5
+          },
+          "jump_android_market_info" : null,
+          "sdk_jump_type" : 1,
+          "is_alternate_ad" : 0,
+          "pkg_download_schema" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+          "uoid" : "CLao3vTRBBDP-Ov00QQ",
+          "reltarget" : 0,
+          "creative_feature_data_json" : "{\"gift_component\":null}\n",
+          "txt" : "点击跳转详情页或第三方应用",
+          "icon_ambience_info" : null,
+          "ad_industry_id" : 7401,
+          "endtime" : 0,
+          "easter_egg" : null,
+          "customized_invoke_url" : "snssdk1128:\/\/",
+          "inner_adshowtype" : 34,
+          "video_height" : 1280,
+          "pic_width" : 1080,
+          "negative_feedback_url" : "https:\/\/nc.gdt.qq.com\/gdt_report.fcg?viewid=ZgaWWjZRhRS0tt66byIY03GsnBYFPTRhj9kQiSF7a!pPUNgTe3Ocf_E!SgSmXX3KmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4HLYuDdvhd00elCXHrw3jPNq59L_dpZENsRxVzUGn8tgKc4WXBw7VZGN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQcG6IBhbFsxHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&acttype=__ACT_TYPE__&s=25&report_source=__REPORT_SOURCE__",
+          "timelife" : 5,
+          "ext" : {
+            "appclass3" : 0,
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ad795240007b5761caa5f5fe14a88090000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "desttype" : 0,
+            "appname" : "抖音",
+            "appclass" : 0,
+            "pkgmd5" : "",
+            "alist" : {
+              "2022" : {
+                "aid" : null,
+                "atype" : 2025
+              }
+            },
+            "applogo512" : "http:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ad795240009c75f0d4fb543230255150000008d00004eec?ck=604136171f2a361dd643b21106d1b79a&m=604136171f2a361dd643b21106d1b79a&sha256=c1f6414b95cd4378e2948179489f4ccebcbe637b168ac26f124e32341145ccd6",
+            "appver" : "40.8.0",
+            "packagename" : null,
+            "creative_finger_print_productid" : "0",
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "quality_productid" : "2253862912",
+            "qzoneliked" : 0,
+            "sdk_data" : "{\"inner_adshowtype\":34,\"is_show_dialog_before_reward\":1}",
+            "appscore" : 10
+          },
+          "dynamic_creative_id" : "14525292080",
+          "pic_height" : 1920,
+          "begintime" : 1794672000,
+          "netlog_traceid" : "htky63ks2zac241",
+          "traceid" : "htky63ks2zac241",
+          "sdk_switch" : null,
+          "video_report_url" : "https:\/\/vr.gdt.qq.com\/gdt_stats.fcg?viewid=ZgaWWjZRhRS0tt66byIY03GsnBYFPTRhj9kQiSF7a!pPUNgTe3Ocf_E!SgSmXX3KmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4HLYuDdvhd00elCXHrw3jPNq59L_dpZENsRxVzUGn8tgKc4WXBw7VZGN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQcG6IBhbFsxHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&report_source=__REPORT_SOURCE__",
+          "pv_limit" : 40,
+          "is_empty" : 0,
+          "component_position_info" : null,
+          "pv_fcs" : 0,
+          "popup_poster_info" : {
+            "appear_time" : 0,
+            "disappear_time" : 0
+          },
+          "cid" : "159427263567",
+          "element_structure_content" : null,
+          "creative_template_id" : 720,
+          "ext_info" : null,
+          "pass_through_data" : {
+            "bid_info" : {
+              "loss_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY03GsnBYFPTRhj9kQiSF7a!pPUNgTe3Ocf_E!SgSmXX3KmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4HLYuDdvhd00elCXHrw3jPNq59L_dpZENsRxVzUGn8tgKc4WXBw7VZGN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQcG6IBhbFsxHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&win_seat=__AUCTION_SEAT_ID__&loss=__AUCTION_LOSS__&original_loss=__ORIGINAL_AUCTION_LOSS__",
+              "win_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY03GsnBYFPTRhj9kQiSF7a!pPUNgTe3Ocf_E!SgSmXX3KmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4HLYuDdvhd00elCXHrw3jPNq59L_dpZENsRxVzUGn8tgKc4WXBw7VZGN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQcG6IBhbFsxHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&highest_loss_price=__HIGHEST_LOSS_PRICE__"
+            },
+            "ad_extension_type" : [
+              9
+            ]
+          },
+          "sk_ad_network" : {
+            "nonce" : "F16A7078-E239-4929-9B12-51843E6B4668",
+            "ad_network_id" : "f7s53z58qe.skadnetwork",
+            "campaign_id" : 11,
+            "signature" : "MEQCICzOfFksu\/NkdULa4CpPYCsq2r3Qj3oAEojwnog\/sJlSAiAtNZiCKlDDWMtimqLUkwj\/siBaCccVEWNTMiouuCL61g==",
+            "timestamp_ms" : "1795598951000"
+          },
+          "ad_extension_type" : [
+            9
+          ],
+          "creative_size" : 2104,
+          "is_contract" : 0,
+          "apurl" : "https:\/\/p.l.qq.com\/p?oid=159427040310&cid=159427263567&ping_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY03GsnBYFPTRhj9kQiSF7a!pPUNgTe3Ocf_E!SgSmXX3KmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4HLYuDdvhd00elCXHrw3jPNq59L_dpZENsRxVzUGn8tgKc4WXBw7VZGN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQcG6IBhbFsxHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&i=1&os=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&wspm=1&report_source=__REPORT_SOURCE__&select_ad_type=__SELECT_AD_TYPE__&coupon_display_status=__COUPON_DISPLAY_STATUS__&tl=1",
+          "floating_zone" : null,
+          "interactive" : null,
+          "img" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af28382000c146b2abc3af6bd66bc1e0000008d00004eec?m=c781a49d287dae9d1b0df6dff82e37ff&ck=c781a49d287dae9d1b0df6dff82e37ff&sha256=ea214dc5fb6b706019ad7713d4d2429fa6f299cc1896361c10236c84c8938109",
+          "price_mode" : 2,
+          "sound_rate" : 50,
+          "video_file_size" : 181248,
+          "sub_type" : 1,
+          "video_duration" : 5,
+          "producttype" : 19,
+          "app_download_info" : {
+            "appver" : "40.8.0",
+            "is_yyb_platform_app" : false,
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ad795240007b5761caa5f5fe14a88090000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "appname" : "抖音",
+            "appid" : "1142110895",
+            "is_game_app" : false
+          },
+          "not_exposed" : false,
+          "mqq_landing_page" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?mt=8&uo=4",
+          "desc" : "",
+          "advertiser_id" : 83634248,
+          "hong_bao_yu" : null,
+          "action_area_item" : [
+            {
+              "area_boundary" : {
+                "margin_left_rate" : 9333,
+                "margin_bottom_rate" : 17241,
+                "area_aspect_radio" : 508333,
+                "margin_right_rate" : 9333
+              },
+              "area_type" : 2
+            }
+          ],
+          "safety_sensitive_creative_elements" : null,
+          "display_info" : {
+            "is_interactive" : false,
+            "dynamic_creative_info" : {
+              "dynamic_ad_sub_type" : 0
+            },
+            "wechat_store_info" : {
+              "product_title" : "",
+              "purchase" : 0,
+              "original_price" : 0,
+              "price" : 0,
+              "product_img_url" : ""
+            },
+            "wechat_game_info_ext" : null
+          },
+          "desttype" : 0,
+          "campaign_id" : 513241576,
+          "video_width" : 720,
+          "mini_program_type" : 0,
+          "buyingtype" : 1,
+          "rl" : "https:\/\/c.l.qq.com\/click?oid=159427040310&cid=159427263567&click_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY03GsnBYFPTRhj9kQiSF7a!pPUNgTe3Ocf_E!SgSmXX3KmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4HLYuDdvhd00elCXHrw3jPNq59L_dpZENsRxVzUGn8tgKc4WXBw7VZGN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQcG6IBhbFsxHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&jtype=0&wspm=1&i=1&os=1&s_lp=101&clklpp=__CLICK_LPP__&cdnxj=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&pid=7002312938192279&vto=__VIDEO_PLAY_TIME__&rta_trid=IzZfXuivEfGn7VJUABQtPg&report_source=__REPORT_SOURCE__&site_set_name=SITE_SET_QQ_MUSIC_GAME&caid1=614b87951f0fd64a77a6a72bfb951ab0&caid2=944b363952f93240f9615a58b9c6da24&device_os_type=ios&dynamic_creative_id=14525292080&image_component_ids=1971693572554&video_component_ids=1971693572554&coupon_click_status=__COUPON_CLICK_STATUS__&tl=1",
+          "acttype" : 1,
+          "effect_url" : "https:\/\/t.gdt.qq.com\/conv\/inner\/api\/conv?client=63&product_id=1142110895&click_id=__CLICK_ID__&actionid=__ACTION_ID__&report_source=__REPORT_SOURCE__",
+          "ad_first_category" : 74,
+          "live_video_info" : {
+            "live_video_type" : 0
+          },
+          "bottom_card_url" : "https:\/\/qzs.gdtimg.com\/union\/res\/union_site\/page\/xqVideoDetailPlay\/xqVideoDetailPlay.html?cl=159427040310&trace_id=htky63ks2zac241&site_set=25&medium_id=40905507934675",
+          "cl" : "159427040310",
+          "button_txt" : "查看详情",
+          "original_exposure_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY03GsnBYFPTRhj9kQiSF7a!pPUNgTe3Ocf_E!SgSmXX3KmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4HLYuDdvhd00elCXHrw3jPNq59L_dpZENsRxVzUGn8tgKc4WXBw7VZGN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQcG6IBhbFsxHV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D&report_source=__REPORT_SOURCE__&ps=201101101",
+          "creative_id" : "159427263567",
+          "tencent_video_id" : "f4706wzb6en",
+          "landing_page_report_url" : "https:\/\/rpt.gdt.qq.com\/landing_page?click_id=__CLICK_ID__&trace_id=htky63ks2zac241&pa=__PAGE_ACTION_ID__&pat=__PAGE_TIME__&lec=__LANDING_ERROR_CODE__&ot=__OS_TYPE__&ver=__VERSION__",
+          "sound_on" : 0,
+          "is_qq_mini_game" : false
+        },
+        {
+          "stay_report_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY02yiuQCbl69!tKz75qbNHIxJ3u_Z1uJyUMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4I8HZmejF7cNMLv0sKO_Uapq59L_dpZENsRxVzUGn8tgIu_sNgop28WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ_9AmNJtxEdsWNRNLMuKNPvGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22finish_type%22%3A%22__FINISH_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D",
+          "is_first_play" : false,
+          "targetid" : "1142110895",
+          "productid" : "1142110895",
+          "video" : "https:\/\/adsmind.gdtimg.com\/ads_svp_video__0bc3becn2aae2uaoxjxjijvb4cie3ueqjxka.f140112.mp4?dis_k=f5228156f9c5abdd12b9b7a624072bab&dis_t=1794376236&sha256=7d0d382faf604357315073f5eec28bf7f82e479b8bddc48ef950c963b4ef409a&m=0f27610930fb10df0b3b0fcf90eebe8f&stdfrom=25",
+          "app_landing_page" : 1,
+          "click_mode" : 2,
+          "pos_id" : "7002312938192279",
+          "splash_switch" : {
+            "enable_skip_to_animation" : false,
+            "render_mode" : 1,
+            "webview_render_wait_time" : 200,
+            "slide_sensitiveness" : 10,
+            "fobid_bgsl" : true,
+            "contract_rl_report" : false
+          },
+          "need_empty_report" : 1,
+          "sdk_proto_type" : 1,
+          "video_timelife" : 6,
+          "price" : "-",
+          "ad_second_category" : 7401,
+          "extra_card_info" : null,
+          "ad_icon" : "广告",
+          "dest_info" : {
+            "landingpage_dynamic_info" : null,
+            "external_link_open_type" : 0,
+            "landing_page_share_info" : {
+              "desc" : "查看详情"
+            }
+          },
+          "jump_android_market_info" : null,
+          "sdk_jump_type" : 1,
+          "is_alternate_ad" : 0,
+          "pkg_download_schema" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+          "uoid" : "CIrJ_MHqBBCPiYLd6gQ",
+          "reltarget" : 0,
+          "corporate_image_name" : "抖音",
+          "creative_feature_data_json" : "{\"gift_component\":null}\n",
+          "txt" : "点击跳转详情页或第三方应用",
+          "icon_ambience_info" : null,
+          "ad_industry_id" : 7401,
+          "corporate_logo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af2a309000e5b2d26699f6fa24c88090000008d00004eec?ck=0efb00f4a91ca1399592c7b684f3c08b&m=0efb00f4a91ca1399592c7b684f3c08b&sha256=afdfc51caca07bad56ac0264b542aa16c31fe65d995b4549159c29b478b74606",
+          "easter_egg" : null,
+          "endtime" : 0,
+          "customized_invoke_url" : "snssdk1128:\/\/feed?gd_label=click_schema_lhnewbh_gdt_rlx_pdr_media_zdh_ios_4475_v3_p1t",
+          "inner_adshowtype" : 34,
+          "video_height" : 1280,
+          "pic_width" : 1080,
+          "negative_feedback_url" : "https:\/\/nc.gdt.qq.com\/gdt_report.fcg?viewid=ZgaWWjZRhRS0tt66byIY02yiuQCbl69!tKz75qbNHIxJ3u_Z1uJyUMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4I8HZmejF7cNMLv0sKO_Uapq59L_dpZENsRxVzUGn8tgIu_sNgop28WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ_9AmNJtxEdsWNRNLMuKNPvGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&acttype=__ACT_TYPE__&s=25&report_source=__REPORT_SOURCE__",
+          "timelife" : 5,
+          "ext" : {
+            "appclass3" : 0,
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af2a211000081fd1acd8cbb626bbc1e0000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "desttype" : 0,
+            "appname" : "抖音",
+            "appclass" : 0,
+            "pkgmd5" : "",
+            "alist" : {
+              "2025" : {
+                "aid" : {
+                  "iconurl" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af2a309000e5b2d26699f6fa24c88090000008d00004eec?ck=0efb00f4a91ca1399592c7b684f3c08b&m=0efb00f4a91ca1399592c7b684f3c08b&sha256=afdfc51caca07bad56ac0264b542aa16c31fe65d995b4549159c29b478b74606"
+                }
+              },
+              "2022" : {
+                "aid" : null,
+                "atype" : 2025
+              }
+            },
+            "applogo512" : "http:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af2a2110002c6841ca329420467bc1e0000008d00004eec?ck=604136171f2a361dd643b21106d1b79a&m=604136171f2a361dd643b21106d1b79a&sha256=c1f6414b95cd4378e2948179489f4ccebcbe637b168ac26f124e32341145ccd6",
+            "appver" : "40.8.0",
+            "packagename" : null,
+            "creative_finger_print_productid" : "0",
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "quality_productid" : "2253862912",
+            "qzoneliked" : 0,
+            "sdk_data" : "{\"inner_adshowtype\":34,\"is_show_dialog_before_reward\":1}",
+            "appscore" : 10
+          },
+          "dynamic_creative_id" : "15100319942",
+          "pic_height" : 1920,
+          "begintime" : 1795363200,
+          "netlog_traceid" : "htky63ks2zac242",
+          "traceid" : "htky63ks2zac242",
+          "sdk_switch" : null,
+          "video_report_url" : "https:\/\/vr.gdt.qq.com\/gdt_stats.fcg?viewid=ZgaWWjZRhRS0tt66byIY02yiuQCbl69!tKz75qbNHIxJ3u_Z1uJyUMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4I8HZmejF7cNMLv0sKO_Uapq59L_dpZENsRxVzUGn8tgIu_sNgop28WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ_9AmNJtxEdsWNRNLMuKNPvGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&report_source=__REPORT_SOURCE__",
+          "pv_limit" : 40,
+          "is_empty" : 0,
+          "component_position_info" : null,
+          "pv_fcs" : 0,
+          "popup_poster_info" : {
+            "appear_time" : 0,
+            "disappear_time" : 0
+          },
+          "cid" : "166088180879",
+          "element_structure_content" : null,
+          "creative_template_id" : 1529,
+          "ext_info" : null,
+          "pass_through_data" : {
+            "bid_info" : {
+              "loss_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY02yiuQCbl69!tKz75qbNHIxJ3u_Z1uJyUMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4I8HZmejF7cNMLv0sKO_Uapq59L_dpZENsRxVzUGn8tgIu_sNgop28WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ_9AmNJtxEdsWNRNLMuKNPvGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&win_seat=__AUCTION_SEAT_ID__&loss=__AUCTION_LOSS__&original_loss=__ORIGINAL_AUCTION_LOSS__",
+              "win_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY02yiuQCbl69!tKz75qbNHIxJ3u_Z1uJyUMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4I8HZmejF7cNMLv0sKO_Uapq59L_dpZENsRxVzUGn8tgIu_sNgop28WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ_9AmNJtxEdsWNRNLMuKNPvGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&highest_loss_price=__HIGHEST_LOSS_PRICE__"
+            },
+            "ad_extension_type" : [
+              9
+            ]
+          },
+          "sk_ad_network" : {
+            "nonce" : "D9C3E07A-DBCE-4BAF-A240-E5F393EB977C",
+            "ad_network_id" : "f7s53z58qe.skadnetwork",
+            "campaign_id" : 59,
+            "signature" : "MEUCIQDGs57\/sHwHshMJpS+oZHwRL8Ky4t\/Jw5\/G9zQV6eBxGAIgHt399T9+zAV7AdpV0sp\/FcyV\/yUqHXzo2\/5I8wjo0Ts=",
+            "timestamp_ms" : "1795598951000"
+          },
+          "ad_extension_type" : [
+            9
+          ],
+          "creative_size" : 1529,
+          "is_contract" : 0,
+          "apurl" : "https:\/\/p.l.qq.com\/p?oid=166031467658&cid=166088180879&ping_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY02yiuQCbl69!tKz75qbNHIxJ3u_Z1uJyUMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4I8HZmejF7cNMLv0sKO_Uapq59L_dpZENsRxVzUGn8tgIu_sNgop28WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ_9AmNJtxEdsWNRNLMuKNPvGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&i=1&os=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&wspm=1&report_source=__REPORT_SOURCE__&select_ad_type=__SELECT_AD_TYPE__&coupon_display_status=__COUPON_DISPLAY_STATUS__&tl=1",
+          "floating_zone" : null,
+          "interactive" : null,
+          "img" : "https:\/\/adsmind.gdtimg.com\/ads_svp_video__0bc3becn2aae2uaoxjxjijvb4cie3ueqjxka.f1000_0.jpeg?dis_k=fb72b1e4a379c2f20133d49b26960e42&dis_t=1794401278&sha256=e1fffe36de1a7db3a5166008538a6d38d37011c472378dd59f7297564d04d38e&ck=b9f00cdb79c416db100763103ba06eb6&m=b9f00cdb79c416db100763103ba06eb6",
+          "price_mode" : 2,
+          "sound_rate" : 50,
+          "video_file_size" : 671744,
+          "sub_type" : 1,
+          "video_duration" : 6,
+          "producttype" : 19,
+          "app_download_info" : {
+            "appver" : "40.8.0",
+            "is_yyb_platform_app" : false,
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af2a211000081fd1acd8cbb626bbc1e0000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "appname" : "抖音",
+            "appid" : "1142110895",
+            "is_game_app" : false
+          },
+          "not_exposed" : false,
+          "mqq_landing_page" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?mt=8&uo=4",
+          "desc" : "",
+          "advertiser_id" : 93764475,
+          "hong_bao_yu" : null,
+          "action_area_item" : [
+            {
+              "area_boundary" : {
+                "margin_left_rate" : 9333,
+                "margin_bottom_rate" : 17241,
+                "area_aspect_radio" : 508333,
+                "margin_right_rate" : 9333
+              },
+              "area_type" : 2
+            }
+          ],
+          "safety_sensitive_creative_elements" : null,
+          "img2" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af2a309000e5b2d26699f6fa24c88090000008d00004eec?ck=0efb00f4a91ca1399592c7b684f3c08b&m=0efb00f4a91ca1399592c7b684f3c08b&sha256=afdfc51caca07bad56ac0264b542aa16c31fe65d995b4549159c29b478b74606",
+          "display_info" : {
+            "is_interactive" : false,
+            "dynamic_creative_info" : {
+              "dynamic_ad_sub_type" : 0
+            },
+            "wechat_store_info" : {
+              "product_title" : "",
+              "purchase" : 0,
+              "original_price" : 0,
+              "price" : 0,
+              "product_img_url" : ""
+            },
+            "wechat_game_info_ext" : null
+          },
+          "desttype" : 0,
+          "campaign_id" : 2822707349,
+          "video_width" : 720,
+          "mini_program_type" : 0,
+          "buyingtype" : 1,
+          "rl" : "https:\/\/c.l.qq.com\/click?oid=166031467658&cid=166088180879&click_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY02yiuQCbl69!tKz75qbNHIxJ3u_Z1uJyUMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4I8HZmejF7cNMLv0sKO_Uapq59L_dpZENsRxVzUGn8tgIu_sNgop28WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ_9AmNJtxEdsWNRNLMuKNPvGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&jtype=0&wspm=1&i=1&os=1&s_lp=101&clklpp=__CLICK_LPP__&cdnxj=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&pid=7002312938192279&vto=__VIDEO_PLAY_TIME__&d_d=1&rta_trid=IzZfXuivEfGn7VJUABQtPg&report_source=__REPORT_SOURCE__&site_set_name=SITE_SET_QQ_MUSIC_GAME&caid1=614b87951f0fd64a77a6a72bfb951ab0&caid2=944b363952f93240f9615a58b9c6da24&device_os_type=ios&dynamic_creative_id=15100319942&image_component_ids=1972083597656_1972767270189&video_component_ids=1972767270189&description_component_ids=1972083596114_1972083597656&coupon_click_status=__COUPON_CLICK_STATUS__&tl=1",
+          "acttype" : 1,
+          "effect_url" : "https:\/\/t.gdt.qq.com\/conv\/inner\/api\/conv?client=63&product_id=1142110895&click_id=__CLICK_ID__&actionid=__ACTION_ID__&report_source=__REPORT_SOURCE__",
+          "ad_first_category" : 74,
+          "live_video_info" : {
+            "live_video_type" : 0
+          },
+          "bottom_card_url" : "https:\/\/qzs.gdtimg.com\/union\/res\/union_site\/page\/xqVideoDetailPlay\/xqVideoDetailPlay.html?cl=166031467658&trace_id=htky63ks2zac242&site_set=25&medium_id=40905507934675",
+          "cl" : "166031467658",
+          "button_txt" : "立即下载",
+          "original_exposure_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY02yiuQCbl69!tKz75qbNHIxJ3u_Z1uJyUMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4I8HZmejF7cNMLv0sKO_Uapq59L_dpZENsRxVzUGn8tgIu_sNgop28WN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ_9AmNJtxEdsWNRNLMuKNPvGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D&report_source=__REPORT_SOURCE__&ps=201101101",
+          "creative_id" : "166088180879",
+          "tencent_video_id" : "b47018byt48",
+          "landing_page_report_url" : "https:\/\/rpt.gdt.qq.com\/landing_page?click_id=__CLICK_ID__&trace_id=htky63ks2zac242&pa=__PAGE_ACTION_ID__&pat=__PAGE_TIME__&lec=__LANDING_ERROR_CODE__&ot=__OS_TYPE__&ver=__VERSION__",
+          "sound_on" : 0,
+          "is_qq_mini_game" : false
+        },
+        {
+          "stay_report_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY0!5W4b8aTn!4eTrHi_EF1Y0m538QsyFrtcwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4PY6DwzTSNqSelCXHrw3jPNq59L_dpZENsRxVzUGn8tgMJTv42bhU3CN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKT4_eLPZzQLonV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22finish_type%22%3A%22__FINISH_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D",
+          "is_first_play" : false,
+          "targetid" : "1142110895",
+          "productid" : "1142110895",
+          "video" : "https:\/\/adsmind.gdtimg.com\/ads_svp_video__0b53h4dc6aaggaadldh2uvvd4p6ef47qml2a.f140112.mp4?dis_k=60fda88d0fd41d40ddfcf8a51192ed7c&dis_t=1794906735&sha256=9f923a556851185ac9c6a733d5d47d5c1b6cff608fabcc675bfea0370532c965&m=2e1607025dcac47208dbb54500356e33&stdfrom=25",
+          "app_landing_page" : 1,
+          "click_mode" : 2,
+          "pos_id" : "7002312938192279",
+          "splash_switch" : {
+            "enable_skip_to_animation" : false,
+            "render_mode" : 1,
+            "webview_render_wait_time" : 200,
+            "slide_sensitiveness" : 10,
+            "fobid_bgsl" : true,
+            "contract_rl_report" : false
+          },
+          "need_empty_report" : 1,
+          "sdk_proto_type" : 1,
+          "video_timelife" : 5,
+          "price" : "-",
+          "ad_second_category" : 7401,
+          "extra_card_info" : null,
+          "ad_icon" : "广告",
+          "dest_info" : {
+            "landingpage_dynamic_info" : null,
+            "external_link_open_type" : 0,
+            "landing_page_share_info" : {
+              "desc" : "查看详情"
+            }
+          },
+          "jump_android_market_info" : null,
+          "sdk_jump_type" : 1,
+          "is_alternate_ad" : 0,
+          "pkg_download_schema" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+          "uoid" : "COeC2a7dBBDT2M7K3QQ",
+          "reltarget" : 0,
+          "creative_feature_data_json" : "{\"gift_component\":null}\n",
+          "txt" : "点击跳转详情页或第三方应用",
+          "icon_ambience_info" : null,
+          "ad_industry_id" : 7401,
+          "endtime" : 0,
+          "easter_egg" : null,
+          "customized_invoke_url" : "snssdk1128:\/\/feed?gd_label=click_schema_lhnewbh_gdt_rlx_pdr_media_zdh_ios_5545_v3_td5",
+          "inner_adshowtype" : 34,
+          "video_height" : 1280,
+          "pic_width" : 1080,
+          "negative_feedback_url" : "https:\/\/nc.gdt.qq.com\/gdt_report.fcg?viewid=ZgaWWjZRhRS0tt66byIY0!5W4b8aTn!4eTrHi_EF1Y0m538QsyFrtcwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4PY6DwzTSNqSelCXHrw3jPNq59L_dpZENsRxVzUGn8tgMJTv42bhU3CN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKT4_eLPZzQLonV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&acttype=__ACT_TYPE__&s=25&report_source=__REPORT_SOURCE__",
+          "timelife" : 5,
+          "ext" : {
+            "appclass3" : 0,
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ae9a4670008fe242534706529fb01150000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "desttype" : 0,
+            "appname" : "抖音",
+            "appclass" : 0,
+            "pkgmd5" : "",
+            "alist" : {
+              "2022" : {
+                "aid" : null,
+                "atype" : 2025
+              }
+            },
+            "applogo512" : "http:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ae9a467000bea371512535136fb01150000008d00004eec?ck=604136171f2a361dd643b21106d1b79a&m=604136171f2a361dd643b21106d1b79a&sha256=c1f6414b95cd4378e2948179489f4ccebcbe637b168ac26f124e32341145ccd6",
+            "appver" : "40.8.0",
+            "packagename" : null,
+            "creative_finger_print_productid" : "0",
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "quality_productid" : "2253862912",
+            "qzoneliked" : 0,
+            "sdk_data" : "{\"inner_adshowtype\":34,\"is_show_dialog_before_reward\":1}",
+            "appscore" : 10
+          },
+          "dynamic_creative_id" : "14800431351",
+          "pic_height" : 1920,
+          "begintime" : 1794758400,
+          "netlog_traceid" : "htky63ks2zac243",
+          "traceid" : "htky63ks2zac243",
+          "sdk_switch" : null,
+          "video_report_url" : "https:\/\/vr.gdt.qq.com\/gdt_stats.fcg?viewid=ZgaWWjZRhRS0tt66byIY0!5W4b8aTn!4eTrHi_EF1Y0m538QsyFrtcwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4PY6DwzTSNqSelCXHrw3jPNq59L_dpZENsRxVzUGn8tgMJTv42bhU3CN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKT4_eLPZzQLonV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&report_source=__REPORT_SOURCE__",
+          "pv_limit" : 40,
+          "is_empty" : 0,
+          "component_position_info" : null,
+          "pv_fcs" : 0,
+          "popup_poster_info" : {
+            "appear_time" : 0,
+            "disappear_time" : 0
+          },
+          "cid" : "162559929427",
+          "element_structure_content" : null,
+          "creative_template_id" : 720,
+          "ext_info" : null,
+          "pass_through_data" : {
+            "bid_info" : {
+              "loss_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY0!5W4b8aTn!4eTrHi_EF1Y0m538QsyFrtcwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4PY6DwzTSNqSelCXHrw3jPNq59L_dpZENsRxVzUGn8tgMJTv42bhU3CN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKT4_eLPZzQLonV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&win_seat=__AUCTION_SEAT_ID__&loss=__AUCTION_LOSS__&original_loss=__ORIGINAL_AUCTION_LOSS__",
+              "win_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY0!5W4b8aTn!4eTrHi_EF1Y0m538QsyFrtcwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4PY6DwzTSNqSelCXHrw3jPNq59L_dpZENsRxVzUGn8tgMJTv42bhU3CN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKT4_eLPZzQLonV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&highest_loss_price=__HIGHEST_LOSS_PRICE__"
+            },
+            "ad_extension_type" : [
+              9
+            ]
+          },
+          "sk_ad_network" : {
+            "nonce" : "2032EEDB-C893-42B8-8F5E-5A33DC56AB07",
+            "ad_network_id" : "f7s53z58qe.skadnetwork",
+            "campaign_id" : 8,
+            "signature" : "MEUCIQChkQsV1QiMGB4i3mRqkLlchRyQJ0j938XNXmjwpjyNWAIgRz+RNND6rr05XF7pfJ+rn1S2GCMfN1oVi5OCKh\/EiEM=",
+            "timestamp_ms" : "1795598951000"
+          },
+          "ad_extension_type" : [
+            9
+          ],
+          "creative_size" : 2104,
+          "is_contract" : 0,
+          "apurl" : "https:\/\/p.l.qq.com\/p?oid=162501378407&cid=162559929427&ping_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY0!5W4b8aTn!4eTrHi_EF1Y0m538QsyFrtcwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4PY6DwzTSNqSelCXHrw3jPNq59L_dpZENsRxVzUGn8tgMJTv42bhU3CN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKT4_eLPZzQLonV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&i=1&os=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&wspm=1&report_source=__REPORT_SOURCE__&select_ad_type=__SELECT_AD_TYPE__&coupon_display_status=__COUPON_DISPLAY_STATUS__&tl=1",
+          "floating_zone" : null,
+          "interactive" : null,
+          "img" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6afc19ec000360680ef30420b40055150000008d00004eec?m=6a5087fa0cb987ffe4c675201e51a2fe&ck=6a5087fa0cb987ffe4c675201e51a2fe&sha256=f09fe247de1c5be815c950d8aa7163969698797b77a798b61ce8b44ceb76b576",
+          "price_mode" : 2,
+          "sound_rate" : 50,
+          "video_file_size" : 241664,
+          "sub_type" : 1,
+          "video_duration" : 5,
+          "producttype" : 19,
+          "app_download_info" : {
+            "appver" : "40.8.0",
+            "is_yyb_platform_app" : false,
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ae9a4670008fe242534706529fb01150000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "appname" : "抖音",
+            "appid" : "1142110895",
+            "is_game_app" : false
+          },
+          "not_exposed" : false,
+          "mqq_landing_page" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?mt=8&uo=4",
+          "desc" : "",
+          "advertiser_id" : 93105545,
+          "hong_bao_yu" : null,
+          "action_area_item" : [
+            {
+              "area_boundary" : {
+                "margin_left_rate" : 9333,
+                "margin_bottom_rate" : 17241,
+                "area_aspect_radio" : 508333,
+                "margin_right_rate" : 9333
+              },
+              "area_type" : 2
+            }
+          ],
+          "safety_sensitive_creative_elements" : null,
+          "display_info" : {
+            "is_interactive" : false,
+            "dynamic_creative_info" : {
+              "dynamic_ad_sub_type" : 0
+            },
+            "wechat_store_info" : {
+              "product_title" : "",
+              "purchase" : 0,
+              "original_price" : 0,
+              "price" : 0,
+              "product_img_url" : ""
+            },
+            "wechat_game_info_ext" : null
+          },
+          "desttype" : 0,
+          "campaign_id" : 3587586555,
+          "video_width" : 720,
+          "mini_program_type" : 0,
+          "buyingtype" : 1,
+          "rl" : "https:\/\/c.l.qq.com\/click?oid=162501378407&cid=162559929427&click_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY0!5W4b8aTn!4eTrHi_EF1Y0m538QsyFrtcwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4PY6DwzTSNqSelCXHrw3jPNq59L_dpZENsRxVzUGn8tgMJTv42bhU3CN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKT4_eLPZzQLonV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&jtype=0&wspm=1&i=1&os=1&s_lp=101&clklpp=__CLICK_LPP__&cdnxj=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&pid=7002312938192279&vto=__VIDEO_PLAY_TIME__&d_d=1&rta_trid=IzZfXuivEfGn7VJUABQtPg&report_source=__REPORT_SOURCE__&site_set_name=SITE_SET_QQ_MUSIC_GAME&caid1=614b87951f0fd64a77a6a72bfb951ab0&caid2=944b363952f93240f9615a58b9c6da24&device_os_type=ios&dynamic_creative_id=14800431351&image_component_ids=1974499518144&video_component_ids=1974499518144&coupon_click_status=__COUPON_CLICK_STATUS__&tl=1",
+          "acttype" : 1,
+          "effect_url" : "https:\/\/t.gdt.qq.com\/conv\/inner\/api\/conv?client=63&product_id=1142110895&click_id=__CLICK_ID__&actionid=__ACTION_ID__&report_source=__REPORT_SOURCE__",
+          "ad_first_category" : 74,
+          "live_video_info" : {
+            "live_video_type" : 0
+          },
+          "bottom_card_url" : "https:\/\/qzs.gdtimg.com\/union\/res\/union_site\/page\/xqVideoDetailPlay\/xqVideoDetailPlay.html?cl=162501378407&trace_id=htky63ks2zac243&site_set=25&medium_id=40905507934675",
+          "cl" : "162501378407",
+          "button_txt" : "查看详情",
+          "original_exposure_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY0!5W4b8aTn!4eTrHi_EF1Y0m538QsyFrtcwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4PY6DwzTSNqSelCXHrw3jPNq59L_dpZENsRxVzUGn8tgMJTv42bhU3CN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKT4_eLPZzQLonV0fd1esaX!vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D&report_source=__REPORT_SOURCE__&ps=201101101",
+          "creative_id" : "162559929427",
+          "tencent_video_id" : "z4716dxuwtf",
+          "landing_page_report_url" : "https:\/\/rpt.gdt.qq.com\/landing_page?click_id=__CLICK_ID__&trace_id=htky63ks2zac243&pa=__PAGE_ACTION_ID__&pat=__PAGE_TIME__&lec=__LANDING_ERROR_CODE__&ot=__OS_TYPE__&ver=__VERSION__",
+          "sound_on" : 0,
+          "is_qq_mini_game" : false
+        },
+        {
+          "stay_report_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=Wp7UnJzpK060tt66byIY0!pMzq3c6dcbhDqYOCQlUzZIyx1U6ci6Yc8TZtxeceQfsENkmIU30CuNL22sNA5sBOcEJ00cNWU1rSpRij8QU_eV!hclmi3z4gNzgDzcftlWQ2V_vxinhU1mOGPzQT28TIAp8iuaFZ4c0s86w4KMYJjo0KaxujDkDksm1I8YHGKlBf5iyhh94UHXOb4mpxi1WM11VbTFNwOey20bNaUig8TkeecBmQ_QbLueuQiwpLunKL3f02U!kceixSOApmj160Kz!ioUjXf3wP1jXAFwqGaBbgz9nxRFeAlBeGfhCWSX1pFX9koyi!xHl8KL6kOhGR7XIalUBvFitrYydeQl86KPGtYcVESx93LRjwuJwN_K&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22finish_type%22%3A%22__FINISH_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D",
+          "is_first_play" : false,
+          "targetid" : "1142110895",
+          "productid" : "1142110895",
+          "video" : "https:\/\/adsmind.gdtimg.com\/ads_svp_video__0bc3rucouaaeayamstyfsnvtzdoe5kgqj2sa.f140112.mp4?dis_k=f950caf5196b6abea2b5ed3b49845fda&dis_t=1795236913&sha256=889d0c6c6347455ff388facbf98a19588616ed35be97d5386e40bf96cd543a2c&m=6d304a2f95e7e6f3067daeeddb442255&stdfrom=25",
+          "app_landing_page" : 1,
+          "click_mode" : 2,
+          "pos_id" : "7002312938192279",
+          "splash_switch" : {
+            "enable_skip_to_animation" : false,
+            "render_mode" : 1,
+            "webview_render_wait_time" : 200,
+            "slide_sensitiveness" : 10,
+            "fobid_bgsl" : true,
+            "contract_rl_report" : false
+          },
+          "need_empty_report" : 1,
+          "sdk_proto_type" : 1,
+          "video_timelife" : 5,
+          "price" : "-",
+          "ad_second_category" : 7401,
+          "extra_card_info" : null,
+          "ad_icon" : "广告",
+          "dest_info" : {
+            "landingpage_dynamic_info" : null,
+            "landing_page_share_info" : {
+              "desc" : "查看详情"
+            },
+            "external_link_open_type" : 0,
+            "extend_link_type" : 5
+          },
+          "jump_android_market_info" : null,
+          "sdk_jump_type" : 1,
+          "is_alternate_ad" : 0,
+          "pkg_download_schema" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+          "uoid" : "CP6Rjs7jBBDDvePQ4wQ",
+          "reltarget" : 0,
+          "creative_feature_data_json" : "{\"gift_component\":null}\n",
+          "txt" : "点击跳转详情页或第三方应用",
+          "icon_ambience_info" : null,
+          "ad_industry_id" : 7401,
+          "endtime" : 1826985599,
+          "easter_egg" : null,
+          "customized_invoke_url" : "snssdk1128:\/\/",
+          "inner_adshowtype" : 34,
+          "video_height" : 1280,
+          "pic_width" : 1080,
+          "negative_feedback_url" : "https:\/\/nc.gdt.qq.com\/gdt_report.fcg?viewid=Wp7UnJzpK060tt66byIY0!pMzq3c6dcbhDqYOCQlUzZIyx1U6ci6Yc8TZtxeceQfsENkmIU30CuNL22sNA5sBOcEJ00cNWU1rSpRij8QU_eV!hclmi3z4gNzgDzcftlWQ2V_vxinhU1mOGPzQT28TIAp8iuaFZ4c0s86w4KMYJjo0KaxujDkDksm1I8YHGKlBf5iyhh94UHXOb4mpxi1WM11VbTFNwOey20bNaUig8TkeecBmQ_QbLueuQiwpLunKL3f02U!kceixSOApmj160Kz!ioUjXf3wP1jXAFwqGaBbgz9nxRFeAlBeGfhCWSX1pFX9koyi!xHl8KL6kOhGR7XIalUBvFitrYydeQl86KPGtYcVESx93LRjwuJwN_K&acttype=__ACT_TYPE__&s=25&report_source=__REPORT_SOURCE__",
+          "timelife" : 5,
+          "ext" : {
+            "appclass3" : 0,
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ad878f8000b4b7a1d9e393ae60155150000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "desttype" : 0,
+            "appname" : "抖音",
+            "appclass" : 0,
+            "pkgmd5" : "",
+            "alist" : {
+              "2022" : {
+                "aid" : null,
+                "atype" : 2025
+              }
+            },
+            "applogo512" : "http:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ad878f8000de4ca0d5892be8b0355150000008d00004eec?ck=604136171f2a361dd643b21106d1b79a&m=604136171f2a361dd643b21106d1b79a&sha256=c1f6414b95cd4378e2948179489f4ccebcbe637b168ac26f124e32341145ccd6",
+            "appver" : "40.8.0",
+            "packagename" : null,
+            "creative_finger_print_productid" : "0",
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "quality_productid" : "2253862912",
+            "qzoneliked" : 0,
+            "sdk_data" : "{\"inner_adshowtype\":34,\"is_show_dialog_before_reward\":1}",
+            "appscore" : 10
+          },
+          "dynamic_creative_id" : "14939520154",
+          "pic_height" : 1920,
+          "begintime" : 1795363200,
+          "netlog_traceid" : "htky63ks2zac244",
+          "traceid" : "htky63ks2zac244",
+          "sdk_switch" : null,
+          "video_report_url" : "https:\/\/vr.gdt.qq.com\/gdt_stats.fcg?viewid=Wp7UnJzpK060tt66byIY0!pMzq3c6dcbhDqYOCQlUzZIyx1U6ci6Yc8TZtxeceQfsENkmIU30CuNL22sNA5sBOcEJ00cNWU1rSpRij8QU_eV!hclmi3z4gNzgDzcftlWQ2V_vxinhU1mOGPzQT28TIAp8iuaFZ4c0s86w4KMYJjo0KaxujDkDksm1I8YHGKlBf5iyhh94UHXOb4mpxi1WM11VbTFNwOey20bNaUig8TkeecBmQ_QbLueuQiwpLunKL3f02U!kceixSOApmj160Kz!ioUjXf3wP1jXAFwqGaBbgz9nxRFeAlBeGfhCWSX1pFX9koyi!xHl8KL6kOhGR7XIalUBvFitrYydeQl86KPGtYcVESx93LRjwuJwN_K&report_source=__REPORT_SOURCE__",
+          "pv_limit" : 40,
+          "is_empty" : 0,
+          "component_position_info" : null,
+          "pv_fcs" : 0,
+          "popup_poster_info" : {
+            "appear_time" : 0,
+            "disappear_time" : 0
+          },
+          "cid" : "164183465667",
+          "element_structure_content" : null,
+          "creative_template_id" : 720,
+          "ext_info" : null,
+          "pass_through_data" : {
+            "bid_info" : {
+              "loss_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=Wp7UnJzpK060tt66byIY0!pMzq3c6dcbhDqYOCQlUzZIyx1U6ci6Yc8TZtxeceQfsENkmIU30CuNL22sNA5sBOcEJ00cNWU1rSpRij8QU_eV!hclmi3z4gNzgDzcftlWQ2V_vxinhU1mOGPzQT28TIAp8iuaFZ4c0s86w4KMYJjo0KaxujDkDksm1I8YHGKlBf5iyhh94UHXOb4mpxi1WM11VbTFNwOey20bNaUig8TkeecBmQ_QbLueuQiwpLunKL3f02U!kceixSOApmj160Kz!ioUjXf3wP1jXAFwqGaBbgz9nxRFeAlBeGfhCWSX1pFX9koyi!xHl8KL6kOhGR7XIalUBvFitrYydeQl86KPGtYcVESx93LRjwuJwN_K&win_price=__AUCTION_PRICE__&win_seat=__AUCTION_SEAT_ID__&loss=__AUCTION_LOSS__&original_loss=__ORIGINAL_AUCTION_LOSS__",
+              "win_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=Wp7UnJzpK060tt66byIY0!pMzq3c6dcbhDqYOCQlUzZIyx1U6ci6Yc8TZtxeceQfsENkmIU30CuNL22sNA5sBOcEJ00cNWU1rSpRij8QU_eV!hclmi3z4gNzgDzcftlWQ2V_vxinhU1mOGPzQT28TIAp8iuaFZ4c0s86w4KMYJjo0KaxujDkDksm1I8YHGKlBf5iyhh94UHXOb4mpxi1WM11VbTFNwOey20bNaUig8TkeecBmQ_QbLueuQiwpLunKL3f02U!kceixSOApmj160Kz!ioUjXf3wP1jXAFwqGaBbgz9nxRFeAlBeGfhCWSX1pFX9koyi!xHl8KL6kOhGR7XIalUBvFitrYydeQl86KPGtYcVESx93LRjwuJwN_K&win_price=__AUCTION_PRICE__&highest_loss_price=__HIGHEST_LOSS_PRICE__"
+            },
+            "ad_extension_type" : [
+              9
+            ]
+          },
+          "sk_ad_network" : {
+            "nonce" : "7FA273BE-BE60-423E-82BF-44D1F51176BF",
+            "ad_network_id" : "f7s53z58qe.skadnetwork",
+            "campaign_id" : 51,
+            "signature" : "MEQCIAuuKocUmz4t7rq972wYi\/GOyKy6Hd\/QiNGfI39OvhTkAiAfhuiVppZG+ycd4H9h6CIF8ek6oFK5CDIeqVGwHk6yUQ==",
+            "timestamp_ms" : "1795598951000"
+          },
+          "ad_extension_type" : [
+            9
+          ],
+          "creative_size" : 2104,
+          "is_contract" : 0,
+          "apurl" : "https:\/\/p.l.qq.com\/p?oid=164177873150&cid=164183465667&ping_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_Wp7UnJzpK060tt66byIY0!pMzq3c6dcbhDqYOCQlUzZIyx1U6ci6Yc8TZtxeceQfsENkmIU30CuNL22sNA5sBOcEJ00cNWU1rSpRij8QU_eV!hclmi3z4gNzgDzcftlWQ2V_vxinhU1mOGPzQT28TIAp8iuaFZ4c0s86w4KMYJjo0KaxujDkDksm1I8YHGKlBf5iyhh94UHXOb4mpxi1WM11VbTFNwOey20bNaUig8TkeecBmQ_QbLueuQiwpLunKL3f02U!kceixSOApmj160Kz!ioUjXf3wP1jXAFwqGaBbgz9nxRFeAlBeGfhCWSX1pFX9koyi!xHl8KL6kOhGR7XIalUBvFitrYydeQl86KPGtYcVESx93LRjwuJwN_K&adtype=&appversion=1087586308&contract=0&i=1&os=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&wspm=1&report_source=__REPORT_SOURCE__&select_ad_type=__SELECT_AD_TYPE__&coupon_display_status=__COUPON_DISPLAY_STATUS__&tl=1",
+          "floating_zone" : null,
+          "interactive" : null,
+          "img" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6b01238f0001ec2e21245c49366bae1e0000008d00004eec?m=2abe65b796a68f2bcdf513782f5dec6b&ck=2abe65b796a68f2bcdf513782f5dec6b&sha256=76e9c995545122613389c87119465026e7e45016e5b2be6fea17ee0134c5e7ed",
+          "price_mode" : 2,
+          "sound_rate" : 50,
+          "video_file_size" : 271360,
+          "sub_type" : 1,
+          "video_duration" : 5,
+          "producttype" : 19,
+          "app_download_info" : {
+            "appver" : "40.8.0",
+            "is_yyb_platform_app" : false,
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6ad878f8000b4b7a1d9e393ae60155150000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "appname" : "抖音",
+            "appid" : "1142110895",
+            "is_game_app" : false
+          },
+          "not_exposed" : false,
+          "mqq_landing_page" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?mt=8&uo=4",
+          "desc" : "",
+          "advertiser_id" : 88730479,
+          "hong_bao_yu" : null,
+          "action_area_item" : [
+            {
+              "area_boundary" : {
+                "margin_left_rate" : 9333,
+                "margin_bottom_rate" : 17241,
+                "area_aspect_radio" : 508333,
+                "margin_right_rate" : 9333
+              },
+              "area_type" : 2
+            }
+          ],
+          "safety_sensitive_creative_elements" : null,
+          "display_info" : {
+            "is_interactive" : false,
+            "dynamic_creative_info" : {
+              "dynamic_ad_sub_type" : 0
+            },
+            "wechat_store_info" : {
+              "product_title" : "",
+              "purchase" : 0,
+              "original_price" : 0,
+              "price" : 0,
+              "product_img_url" : ""
+            },
+            "wechat_game_info_ext" : null
+          },
+          "desttype" : 0,
+          "campaign_id" : 969108970,
+          "video_width" : 720,
+          "mini_program_type" : 0,
+          "buyingtype" : 1,
+          "rl" : "https:\/\/c.l.qq.com\/click?oid=164177873150&cid=164183465667&click_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_Wp7UnJzpK060tt66byIY0!pMzq3c6dcbhDqYOCQlUzZIyx1U6ci6Yc8TZtxeceQfsENkmIU30CuNL22sNA5sBOcEJ00cNWU1rSpRij8QU_eV!hclmi3z4gNzgDzcftlWQ2V_vxinhU1mOGPzQT28TIAp8iuaFZ4c0s86w4KMYJjo0KaxujDkDksm1I8YHGKlBf5iyhh94UHXOb4mpxi1WM11VbTFNwOey20bNaUig8TkeecBmQ_QbLueuQiwpLunKL3f02U!kceixSOApmj160Kz!ioUjXf3wP1jXAFwqGaBbgz9nxRFeAlBeGfhCWSX1pFX9koyi!xHl8KL6kOhGR7XIalUBvFitrYydeQl86KPGtYcVESx93LRjwuJwN_K&adtype=&appversion=1087586308&contract=0&jtype=0&wspm=1&i=1&os=1&s_lp=101&clklpp=__CLICK_LPP__&cdnxj=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&pid=7002312938192279&vto=__VIDEO_PLAY_TIME__&rta_trid=IzZfXuivEfGn7VJUABQtPg&report_source=__REPORT_SOURCE__&site_set_name=SITE_SET_QQ_MUSIC_GAME&caid1=614b87951f0fd64a77a6a72bfb951ab0&caid2=944b363952f93240f9615a58b9c6da24&device_os_type=ios&dynamic_creative_id=14939520154&image_component_ids=1970898065903&video_component_ids=1970898065903&coupon_click_status=__COUPON_CLICK_STATUS__&tl=1",
+          "acttype" : 1,
+          "effect_url" : "https:\/\/t.gdt.qq.com\/conv\/inner\/api\/conv?client=63&product_id=1142110895&click_id=__CLICK_ID__&actionid=__ACTION_ID__&report_source=__REPORT_SOURCE__",
+          "ad_first_category" : 74,
+          "live_video_info" : {
+            "live_video_type" : 0
+          },
+          "bottom_card_url" : "https:\/\/qzs.gdtimg.com\/union\/res\/union_site\/page\/xqVideoDetailPlay\/xqVideoDetailPlay.html?cl=164177873150&trace_id=htky63ks2zac244&site_set=25&medium_id=40905507934675",
+          "cl" : "164177873150",
+          "button_txt" : "查看详情",
+          "original_exposure_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=Wp7UnJzpK060tt66byIY0!pMzq3c6dcbhDqYOCQlUzZIyx1U6ci6Yc8TZtxeceQfsENkmIU30CuNL22sNA5sBOcEJ00cNWU1rSpRij8QU_eV!hclmi3z4gNzgDzcftlWQ2V_vxinhU1mOGPzQT28TIAp8iuaFZ4c0s86w4KMYJjo0KaxujDkDksm1I8YHGKlBf5iyhh94UHXOb4mpxi1WM11VbTFNwOey20bNaUig8TkeecBmQ_QbLueuQiwpLunKL3f02U!kceixSOApmj160Kz!ioUjXf3wP1jXAFwqGaBbgz9nxRFeAlBeGfhCWSX1pFX9koyi!xHl8KL6kOhGR7XIalUBvFitrYydeQl86KPGtYcVESx93LRjwuJwN_K&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D&report_source=__REPORT_SOURCE__&ps=201101101",
+          "creative_id" : "164183465667",
+          "tencent_video_id" : "o4721rp1mxb",
+          "landing_page_report_url" : "https:\/\/rpt.gdt.qq.com\/landing_page?click_id=__CLICK_ID__&trace_id=htky63ks2zac244&pa=__PAGE_ACTION_ID__&pat=__PAGE_TIME__&lec=__LANDING_ERROR_CODE__&ot=__OS_TYPE__&ver=__VERSION__",
+          "sound_on" : 0,
+          "is_qq_mini_game" : false
+        },
+        {
+          "stay_report_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY0ySuGFXprBtXDhnsuzasq6UoYz8CHhbSYMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4LIBvjbpVxS9MZzZOrJFBedq59L_dpZENsRxVzUGn8tgQWgV!q4BhoCN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQWrTiDbilRAN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22finish_type%22%3A%22__FINISH_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D",
+          "is_first_play" : false,
+          "targetid" : "1142110895",
+          "productid" : "1142110895",
+          "video" : "https:\/\/adsmind.gdtimg.com\/ads_svp_video__0bc3iqacmaaaliapb6qc4nvtqrgeezcaajsa.f32.mp4?dis_k=d5e08ab703621339b1c7bfeb5a778fbf&dis_t=1795348011&sha256=cedc6031a314e92c5b60ce3d7dfd599318e950ea69ee2a7260d3e9e553b5035b&m=035a21275e7f2269e81131a2824a51df&stdfrom=25",
+          "app_landing_page" : 1,
+          "click_mode" : 2,
+          "pos_id" : "7002312938192279",
+          "splash_switch" : {
+            "enable_skip_to_animation" : false,
+            "render_mode" : 1,
+            "webview_render_wait_time" : 200,
+            "slide_sensitiveness" : 10,
+            "fobid_bgsl" : true,
+            "contract_rl_report" : false
+          },
+          "need_empty_report" : 1,
+          "sdk_proto_type" : 1,
+          "video_timelife" : 5,
+          "price" : "-",
+          "ad_second_category" : 7401,
+          "extra_card_info" : null,
+          "ad_icon" : "广告",
+          "dest_info" : {
+            "landingpage_dynamic_info" : null,
+            "external_link_open_type" : 0,
+            "landing_page_share_info" : {
+              "desc" : "查看详情"
+            }
+          },
+          "jump_android_market_info" : null,
+          "sdk_jump_type" : 1,
+          "is_alternate_ad" : 0,
+          "pkg_download_schema" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+          "uoid" : "CPLC0briBBD8nZ_q4gQ",
+          "reltarget" : 0,
+          "creative_feature_data_json" : "{\"gift_component\":null}\n",
+          "txt" : "点击跳转详情页或第三方应用",
+          "icon_ambience_info" : null,
+          "ad_industry_id" : 7401,
+          "endtime" : 0,
+          "easter_egg" : null,
+          "customized_invoke_url" : "snssdk1128:\/\/feed?gd_label=click_schema_lhnewbh_gdt_rlx_pdr_media_zdh_ios_4539_v3_uxg",
+          "inner_adshowtype" : 0,
+          "video_height" : 1280,
+          "pic_width" : 1080,
+          "negative_feedback_url" : "https:\/\/nc.gdt.qq.com\/gdt_report.fcg?viewid=ZgaWWjZRhRS0tt66byIY0ySuGFXprBtXDhnsuzasq6UoYz8CHhbSYMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4LIBvjbpVxS9MZzZOrJFBedq59L_dpZENsRxVzUGn8tgQWgV!q4BhoCN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQWrTiDbilRAN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&acttype=__ACT_TYPE__&s=25&report_source=__REPORT_SOURCE__",
+          "timelife" : 5,
+          "ext" : {
+            "appclass3" : 0,
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af2a6c00006a7cf0aec6c61460555150000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "desttype" : 0,
+            "appname" : "抖音",
+            "appclass" : 0,
+            "pkgmd5" : "",
+            "alist" : {
+              "2022" : {
+                "aid" : null,
+                "atype" : 2025
+              }
+            },
+            "applogo512" : "http:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af2a6c0000972fa16248b53286bae1e0000008d00004eec?ck=604136171f2a361dd643b21106d1b79a&m=604136171f2a361dd643b21106d1b79a&sha256=c1f6414b95cd4378e2948179489f4ccebcbe637b168ac26f124e32341145ccd6",
+            "appver" : "40.8.0",
+            "packagename" : null,
+            "creative_finger_print_productid" : "0",
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "quality_productid" : "2253862912",
+            "qzoneliked" : 0,
+            "sdk_data" : "{\"inner_adshowtype\":0,\"is_show_dialog_before_reward\":1}",
+            "appscore" : 10
+          },
+          "dynamic_creative_id" : "14922326636",
+          "pic_height" : 1920,
+          "begintime" : 1794931200,
+          "netlog_traceid" : "htky63ks2zac245",
+          "traceid" : "htky63ks2zac245",
+          "sdk_switch" : null,
+          "video_report_url" : "https:\/\/vr.gdt.qq.com\/gdt_stats.fcg?viewid=ZgaWWjZRhRS0tt66byIY0ySuGFXprBtXDhnsuzasq6UoYz8CHhbSYMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4LIBvjbpVxS9MZzZOrJFBedq59L_dpZENsRxVzUGn8tgQWgV!q4BhoCN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQWrTiDbilRAN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&report_source=__REPORT_SOURCE__",
+          "pv_limit" : 40,
+          "is_empty" : 0,
+          "component_position_info" : null,
+          "pv_fcs" : 0,
+          "popup_poster_info" : {
+            "appear_time" : 0,
+            "disappear_time" : 0
+          },
+          "cid" : "163968438012",
+          "element_structure_content" : null,
+          "creative_template_id" : 711,
+          "ext_info" : null,
+          "pass_through_data" : {
+            "bid_info" : {
+              "loss_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY0ySuGFXprBtXDhnsuzasq6UoYz8CHhbSYMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4LIBvjbpVxS9MZzZOrJFBedq59L_dpZENsRxVzUGn8tgQWgV!q4BhoCN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQWrTiDbilRAN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&win_seat=__AUCTION_SEAT_ID__&loss=__AUCTION_LOSS__&original_loss=__ORIGINAL_AUCTION_LOSS__",
+              "win_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY0ySuGFXprBtXDhnsuzasq6UoYz8CHhbSYMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4LIBvjbpVxS9MZzZOrJFBedq59L_dpZENsRxVzUGn8tgQWgV!q4BhoCN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQWrTiDbilRAN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&highest_loss_price=__HIGHEST_LOSS_PRICE__"
+            },
+            "ad_extension_type" : [
+              9
+            ]
+          },
+          "sk_ad_network" : {
+            "nonce" : "BFFB3171-EB20-4D2A-A0AE-AEDC0189C041",
+            "ad_network_id" : "f7s53z58qe.skadnetwork",
+            "campaign_id" : 43,
+            "signature" : "MEYCIQCLTBQmzT2pZjnMCetr+j1odnAJJIizNRmss2elVr\/ingIhAP\/0cGT4cWdWrFqyL+49ldvqtYO2CPXci32QOfPhqaBt",
+            "timestamp_ms" : "1795598951000"
+          },
+          "ad_extension_type" : [
+            9
+          ],
+          "creative_size" : 1857,
+          "is_contract" : 0,
+          "apurl" : "https:\/\/p.l.qq.com\/p?oid=163868598642&cid=163968438012&ping_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY0ySuGFXprBtXDhnsuzasq6UoYz8CHhbSYMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4LIBvjbpVxS9MZzZOrJFBedq59L_dpZENsRxVzUGn8tgQWgV!q4BhoCN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQWrTiDbilRAN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&i=1&os=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&wspm=1&report_source=__REPORT_SOURCE__&select_ad_type=__SELECT_AD_TYPE__&coupon_display_status=__COUPON_DISPLAY_STATUS__&tl=1",
+          "floating_zone" : null,
+          "interactive" : null,
+          "img" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6b02d610000a84cf122b01872d4b88090000008d00004eec?m=8055774c4006af723f2a24603b50d4d9&ck=8055774c4006af723f2a24603b50d4d9&sha256=8a5eaad08592f815761cdf17f0766318190de8fb05573e1b7ea39ecbc8fe7d75",
+          "price_mode" : 2,
+          "sound_rate" : 50,
+          "video_file_size" : 278528,
+          "sub_type" : 1,
+          "video_duration" : 5,
+          "producttype" : 19,
+          "app_download_info" : {
+            "appver" : "40.8.0",
+            "is_yyb_platform_app" : false,
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af2a6c00006a7cf0aec6c61460555150000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "appname" : "抖音",
+            "appid" : "1142110895",
+            "is_game_app" : false
+          },
+          "not_exposed" : false,
+          "mqq_landing_page" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?mt=8&uo=4",
+          "desc" : "",
+          "advertiser_id" : 93764539,
+          "hong_bao_yu" : null,
+          "action_area_item" : [
+            {
+              "area_boundary" : {
+                "margin_left_rate" : 9333,
+                "margin_bottom_rate" : 17241,
+                "area_aspect_radio" : 508333,
+                "margin_right_rate" : 9333
+              },
+              "area_type" : 2
+            }
+          ],
+          "safety_sensitive_creative_elements" : null,
+          "display_info" : {
+            "is_interactive" : false,
+            "dynamic_creative_info" : {
+              "dynamic_ad_sub_type" : 0
+            },
+            "wechat_store_info" : {
+              "product_title" : "",
+              "purchase" : 0,
+              "original_price" : 0,
+              "price" : 0,
+              "product_img_url" : ""
+            },
+            "wechat_game_info_ext" : null
+          },
+          "desttype" : 0,
+          "campaign_id" : 659840281,
+          "video_width" : 720,
+          "mini_program_type" : 0,
+          "buyingtype" : 1,
+          "rl" : "https:\/\/c.l.qq.com\/click?oid=163868598642&cid=163968438012&click_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY0ySuGFXprBtXDhnsuzasq6UoYz8CHhbSYMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4LIBvjbpVxS9MZzZOrJFBedq59L_dpZENsRxVzUGn8tgQWgV!q4BhoCN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQWrTiDbilRAN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&jtype=0&wspm=1&i=1&os=1&s_lp=101&clklpp=__CLICK_LPP__&cdnxj=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&pid=7002312938192279&vto=__VIDEO_PLAY_TIME__&d_d=1&rta_trid=IzZfXuivEfGn7VJUABQtPg&report_source=__REPORT_SOURCE__&site_set_name=SITE_SET_QQ_MUSIC_GAME&caid1=614b87951f0fd64a77a6a72bfb951ab0&caid2=944b363952f93240f9615a58b9c6da24&device_os_type=ios&dynamic_creative_id=14922326636&image_component_ids=1975771985332&video_component_ids=1975771985332&description_component_ids=1972088813798&coupon_click_status=__COUPON_CLICK_STATUS__&tl=1",
+          "acttype" : 1,
+          "effect_url" : "https:\/\/t.gdt.qq.com\/conv\/inner\/api\/conv?client=63&product_id=1142110895&click_id=__CLICK_ID__&actionid=__ACTION_ID__&report_source=__REPORT_SOURCE__",
+          "ad_first_category" : 74,
+          "live_video_info" : {
+            "live_video_type" : 0
+          },
+          "bottom_card_url" : "https:\/\/qzs.gdtimg.com\/union\/res\/union_site\/page\/xqVideoDetailPlay\/xqVideoDetailPlay.html?cl=163868598642&trace_id=htky63ks2zac245&site_set=25&medium_id=40905507934675",
+          "cl" : "163868598642",
+          "button_txt" : "查看详情",
+          "original_exposure_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY0ySuGFXprBtXDhnsuzasq6UoYz8CHhbSYMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4LIBvjbpVxS9MZzZOrJFBedq59L_dpZENsRxVzUGn8tgQWgV!q4BhoCN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQWrTiDbilRAN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D&report_source=__REPORT_SOURCE__&ps=201101101",
+          "creative_id" : "163968438012",
+          "tencent_video_id" : "l4722fchzis",
+          "landing_page_report_url" : "https:\/\/rpt.gdt.qq.com\/landing_page?click_id=__CLICK_ID__&trace_id=htky63ks2zac245&pa=__PAGE_ACTION_ID__&pat=__PAGE_TIME__&lec=__LANDING_ERROR_CODE__&ot=__OS_TYPE__&ver=__VERSION__",
+          "sound_on" : 0,
+          "is_qq_mini_game" : false
+        },
+        {
+          "stay_report_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY04CsYHGZEUr9PWfUU1eyidnLR5XJKPtVcMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4MdNGqmnXkW!jcov_XO3Sd1q59L_dpZENsRxVzUGn8tggUeuL5Bjp9uN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ15w82caqmJN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22finish_type%22%3A%22__FINISH_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D",
+          "is_first_play" : false,
+          "targetid" : "1142110895",
+          "productid" : "1142110895",
+          "video" : "https:\/\/adsmind.gdtimg.com\/ads_svp_video__0bc3oyagsaaajaakncialfvtq5wenf3aa2ka.f140112.mp4?dis_k=7e0c4accf370ec960b194081d058a3ce&dis_t=1795215215&sha256=9378f914fd6d3d880b63ab8355d6ad6e228a07e83676254b3cb7fdf116ea2437&m=a7664ce34fa03e5c98175733502d10ac&stdfrom=25",
+          "app_landing_page" : 1,
+          "click_mode" : 2,
+          "pos_id" : "7002312938192279",
+          "splash_switch" : {
+            "enable_skip_to_animation" : false,
+            "render_mode" : 1,
+            "webview_render_wait_time" : 200,
+            "slide_sensitiveness" : 10,
+            "fobid_bgsl" : true,
+            "contract_rl_report" : false
+          },
+          "need_empty_report" : 1,
+          "sdk_proto_type" : 1,
+          "video_timelife" : 5,
+          "price" : "-",
+          "ad_second_category" : 7401,
+          "extra_card_info" : null,
+          "ad_icon" : "广告",
+          "dest_info" : {
+            "landingpage_dynamic_info" : null,
+            "external_link_open_type" : 0,
+            "landing_page_share_info" : {
+              "desc" : "查看详情"
+            }
+          },
+          "jump_android_market_info" : null,
+          "sdk_jump_type" : 1,
+          "is_alternate_ad" : 0,
+          "pkg_download_schema" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+          "uoid" : "CISQzvniBBDw4uTz4wQ",
+          "reltarget" : 0,
+          "creative_feature_data_json" : "{\"gift_component\":null}\n",
+          "txt" : "点击跳转详情页或第三方应用",
+          "icon_ambience_info" : null,
+          "ad_industry_id" : 7401,
+          "endtime" : 0,
+          "easter_egg" : null,
+          "customized_invoke_url" : "snssdk1128:\/\/feed?gd_label=click_schema_lhnewbh_gdt_rlx_pdr_media_zdh_ios_4522_v3_47j",
+          "inner_adshowtype" : 0,
+          "video_height" : 1280,
+          "pic_width" : 1080,
+          "negative_feedback_url" : "https:\/\/nc.gdt.qq.com\/gdt_report.fcg?viewid=ZgaWWjZRhRS0tt66byIY04CsYHGZEUr9PWfUU1eyidnLR5XJKPtVcMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4MdNGqmnXkW!jcov_XO3Sd1q59L_dpZENsRxVzUGn8tggUeuL5Bjp9uN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ15w82caqmJN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&acttype=__ACT_TYPE__&s=25&report_source=__REPORT_SOURCE__",
+          "timelife" : 5,
+          "ext" : {
+            "appclass3" : 0,
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af2a6c2000157571a4feb05599b1c150000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "desttype" : 0,
+            "appname" : "抖音",
+            "appclass" : 0,
+            "pkgmd5" : "",
+            "alist" : {
+              "2022" : {
+                "aid" : null,
+                "atype" : 2025
+              }
+            },
+            "applogo512" : "http:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af2a6c2000449b91a61501e5a0455150000008d00004eec?ck=604136171f2a361dd643b21106d1b79a&m=604136171f2a361dd643b21106d1b79a&sha256=c1f6414b95cd4378e2948179489f4ccebcbe637b168ac26f124e32341145ccd6",
+            "appver" : "40.8.0",
+            "packagename" : null,
+            "creative_finger_print_productid" : "0",
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "quality_productid" : "2253862912",
+            "qzoneliked" : 0,
+            "sdk_data" : "{\"inner_adshowtype\":0,\"is_show_dialog_before_reward\":1}",
+            "appscore" : 10
+          },
+          "dynamic_creative_id" : "14946106556",
+          "pic_height" : 1920,
+          "begintime" : 1795017600,
+          "netlog_traceid" : "htky63ks2zac246",
+          "traceid" : "htky63ks2zac246",
+          "sdk_switch" : null,
+          "video_report_url" : "https:\/\/vr.gdt.qq.com\/gdt_stats.fcg?viewid=ZgaWWjZRhRS0tt66byIY04CsYHGZEUr9PWfUU1eyidnLR5XJKPtVcMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4MdNGqmnXkW!jcov_XO3Sd1q59L_dpZENsRxVzUGn8tggUeuL5Bjp9uN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ15w82caqmJN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&report_source=__REPORT_SOURCE__",
+          "pv_limit" : 40,
+          "is_empty" : 0,
+          "component_position_info" : null,
+          "pv_fcs" : 0,
+          "popup_poster_info" : {
+            "appear_time" : 0,
+            "disappear_time" : 0
+          },
+          "cid" : "164256887152",
+          "element_structure_content" : null,
+          "creative_template_id" : 711,
+          "ext_info" : null,
+          "pass_through_data" : {
+            "bid_info" : {
+              "loss_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY04CsYHGZEUr9PWfUU1eyidnLR5XJKPtVcMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4MdNGqmnXkW!jcov_XO3Sd1q59L_dpZENsRxVzUGn8tggUeuL5Bjp9uN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ15w82caqmJN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&win_seat=__AUCTION_SEAT_ID__&loss=__AUCTION_LOSS__&original_loss=__ORIGINAL_AUCTION_LOSS__",
+              "win_notice_url" : "https:\/\/win.gdt.qq.com\/pcad_win_notice.fcg?viewid=ZgaWWjZRhRS0tt66byIY04CsYHGZEUr9PWfUU1eyidnLR5XJKPtVcMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4MdNGqmnXkW!jcov_XO3Sd1q59L_dpZENsRxVzUGn8tggUeuL5Bjp9uN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ15w82caqmJN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&win_price=__AUCTION_PRICE__&highest_loss_price=__HIGHEST_LOSS_PRICE__"
+            },
+            "ad_extension_type" : [
+              9
+            ]
+          },
+          "sk_ad_network" : {
+            "nonce" : "070BAE86-29BB-4A44-9775-A2571089FC6E",
+            "ad_network_id" : "f7s53z58qe.skadnetwork",
+            "campaign_id" : 57,
+            "signature" : "MEUCIQCZ\/XdK+G1Mf54blU6kAN6ck9of3zV1fBOoYIPMnXY4ZwIge1sYUTMHfJB9+IypBlpjKHmRBxlOVhxyUKV+RUvqscA=",
+            "timestamp_ms" : "1795598951000"
+          },
+          "ad_extension_type" : [
+            9
+          ],
+          "creative_size" : 1856,
+          "is_contract" : 0,
+          "apurl" : "https:\/\/p.l.qq.com\/p?oid=164000663556&cid=164256887152&ping_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY04CsYHGZEUr9PWfUU1eyidnLR5XJKPtVcMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4MdNGqmnXkW!jcov_XO3Sd1q59L_dpZENsRxVzUGn8tggUeuL5Bjp9uN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ15w82caqmJN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&i=1&os=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&wspm=1&report_source=__REPORT_SOURCE__&select_ad_type=__SELECT_AD_TYPE__&coupon_display_status=__COUPON_DISPLAY_STATUS__&tl=1",
+          "floating_zone" : null,
+          "interactive" : null,
+          "img" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6b00cf2e000d7e251d45a3aa56fb01150000008d00004eec?m=59f73109013669853c7e41ab3554cdb5&ck=59f73109013669853c7e41ab3554cdb5&sha256=b8ee0b50b68d7b3a8efd1cbe494d9698ba4ddeceed0daa99eb22a42af9fe8de1",
+          "price_mode" : 2,
+          "sound_rate" : 50,
+          "video_file_size" : 210944,
+          "sub_type" : 1,
+          "video_duration" : 5,
+          "producttype" : 19,
+          "app_download_info" : {
+            "appver" : "40.8.0",
+            "is_yyb_platform_app" : false,
+            "pkgurl" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?uo=4&mt=8",
+            "applogo" : "https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/6af2a6c2000157571a4feb05599b1c150000008d00004eec?ck=f8fd628f0a5535dd5ee583a5bf237f02&m=f8fd628f0a5535dd5ee583a5bf237f02&sha256=c363911609d3bc771ec3cde9a0c1bee2c5275db43e583cfe6b23d0fc9c1da942",
+            "appname" : "抖音",
+            "appid" : "1142110895",
+            "is_game_app" : false
+          },
+          "not_exposed" : false,
+          "mqq_landing_page" : "https:\/\/itunes.apple.com\/cn\/app\/%E6%8A%96%E9%9F%B3\/id1142110895?mt=8&uo=4",
+          "desc" : "",
+          "advertiser_id" : 93764522,
+          "hong_bao_yu" : null,
+          "action_area_item" : [
+            {
+              "area_boundary" : {
+                "margin_left_rate" : 9333,
+                "margin_bottom_rate" : 17241,
+                "area_aspect_radio" : 508333,
+                "margin_right_rate" : 9333
+              },
+              "area_type" : 2
+            }
+          ],
+          "safety_sensitive_creative_elements" : null,
+          "display_info" : {
+            "is_interactive" : false,
+            "dynamic_creative_info" : {
+              "dynamic_ad_sub_type" : 0
+            },
+            "wechat_store_info" : {
+              "product_title" : "",
+              "purchase" : 0,
+              "original_price" : 0,
+              "price" : 0,
+              "product_img_url" : ""
+            },
+            "wechat_game_info_ext" : null
+          },
+          "desttype" : 0,
+          "campaign_id" : 791904991,
+          "video_width" : 720,
+          "mini_program_type" : 0,
+          "buyingtype" : 1,
+          "rl" : "https:\/\/c.l.qq.com\/click?oid=164000663556&cid=164256887152&click_data=EAAoADDbrQM6DXdpZW5zZzY1Z2t5NXdAGVoQOTgzMEQzREI0RDUwQTVGMA_viewid_ZgaWWjZRhRS0tt66byIY04CsYHGZEUr9PWfUU1eyidnLR5XJKPtVcMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4MdNGqmnXkW!jcov_XO3Sd1q59L_dpZENsRxVzUGn8tggUeuL5Bjp9uN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ15w82caqmJN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&adtype=&appversion=1087586308&contract=0&jtype=0&wspm=1&i=1&os=1&s_lp=101&clklpp=__CLICK_LPP__&cdnxj=1&xp=2&cm2expid=55003&cm2traceid=wiensg65gky5w&pid=7002312938192279&vto=__VIDEO_PLAY_TIME__&d_d=1&rta_trid=IzZfXuivEfGn7VJUABQtPg&report_source=__REPORT_SOURCE__&site_set_name=SITE_SET_QQ_MUSIC_GAME&caid1=614b87951f0fd64a77a6a72bfb951ab0&caid2=944b363952f93240f9615a58b9c6da24&device_os_type=ios&dynamic_creative_id=14946106556&image_component_ids=1974740730013&video_component_ids=1974740730013&description_component_ids=1972088916116&coupon_click_status=__COUPON_CLICK_STATUS__&tl=1",
+          "acttype" : 1,
+          "effect_url" : "https:\/\/t.gdt.qq.com\/conv\/inner\/api\/conv?client=63&product_id=1142110895&click_id=__CLICK_ID__&actionid=__ACTION_ID__&report_source=__REPORT_SOURCE__",
+          "ad_first_category" : 74,
+          "live_video_info" : {
+            "live_video_type" : 0
+          },
+          "bottom_card_url" : "https:\/\/qzs.gdtimg.com\/union\/res\/union_site\/page\/xqVideoDetailPlay\/xqVideoDetailPlay.html?cl=164000663556&trace_id=htky63ks2zac246&site_set=25&medium_id=40905507934675",
+          "cl" : "164000663556",
+          "button_txt" : "查看详情",
+          "original_exposure_url" : "https:\/\/rpt.gdt.qq.com\/creative_view?viewid=ZgaWWjZRhRS0tt66byIY04CsYHGZEUr9PWfUU1eyidnLR5XJKPtVcMwHmJIhTgnGmwglGSl2axEjrqIe9QJea1pn1zeXcnoxtv8j_ichTqL7_jX8Pvhp4MdNGqmnXkW!jcov_XO3Sd1q59L_dpZENsRxVzUGn8tggUeuL5Bjp9uN9eyXCqfVqCYzr3mkJ2dDTF6i_Y5tkNovBprpwOKnFTcCKwFcwnzhISDJHSsiPts1EOxJZAVzq0KmfIcEitHQe5saWhZLG_C!ePV_U09BwSDGRhQaSwB0bTIRH7h34fCIdkFItzRAQebkAf9xPq1RkjhX!3FIbKQ15w82caqmJN6jsoFQn7p4vGLH!AoTTYCFKNIj58AlHr0aAZyippsza4V0svI_s!M&cv=%7B%22action%22%3A%22__ACTION_TYPE__%22%2C%22percent%22%3A%22__VIEW_PERCENT__%22%2C%22time%22%3A%22__VIEW_TIME__%22%7D&report_source=__REPORT_SOURCE__&ps=201101101",
+          "creative_id" : "164256887152",
+          "tencent_video_id" : "g4720dzzx6f",
+          "landing_page_report_url" : "https:\/\/rpt.gdt.qq.com\/landing_page?click_id=__CLICK_ID__&trace_id=htky63ks2zac246&pa=__PAGE_ACTION_ID__&pat=__PAGE_TIME__&lec=__LANDING_ERROR_CODE__&ot=__OS_TYPE__&ver=__VERSION__",
+          "sound_on" : 0,
+          "is_qq_mini_game" : false
+        },
+        {
+          "slot" : [
+            {
+              "effectivetime" : [
+                {
+                  "end" : 1440,
+                  "start" : 0
+                }
+              ],
+              "index" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ],
+              "server_data" : [
+                "cGluZ19kYXRhPUVBRVlOeUFCS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwUmJmWHFwWVA5TmhsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFDS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZkJVMVM0NUdUSFVsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFES0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwWWxjZ1liSjNmRkdsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFFS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwVWxxWlAzRU5va1JsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFGS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZHI5aWFpbWFsSXJsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFHS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwU05fVFhoZkdiVElsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFIS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZjVTa1NlMzhpX1psY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFJS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZG51R09hSHNYdnVsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFKS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwU05nbzFPTV9zQlFsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFLS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwUkhLOGQwbXhMSjdsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA"
+              ],
+              "date" : "2026-11-25"
+            },
+            {
+              "effectivetime" : [
+                {
+                  "end" : 1440,
+                  "start" : 0
+                }
+              ],
+              "index" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ],
+              "server_data" : [
+                "cGluZ19kYXRhPUVBRVlOeUFCS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwV1g3blpjMkhjallsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFDS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwUWZZY2M3a05sNHdsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFES0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwVUU3aTdlcmxlQU9sY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFFS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZGFpT2ZJSExHWEpsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFGS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZG5pVkZPMzdaemxsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFHS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwUnJHTERyU1FWZjFsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFIS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwVHBjTUl2dTQwU1psY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFJS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwWXghVGVtOVY4U2NsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFKS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwVjJJWGNJd1h4YmpsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFLS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwWXlDWFYxZTY0OFhsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA"
+              ],
+              "date" : "2026-11-26"
+            },
+            {
+              "effectivetime" : [
+                {
+                  "end" : 1440,
+                  "start" : 0
+                }
+              ],
+              "index" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ],
+              "server_data" : [
+                "cGluZ19kYXRhPUVBRVlOeUFCS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwWjdPQjY0IUZycUZsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFDS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwYURQenpaYUhrYmJsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFES0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwU0J4VkdjRTJxRUZsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFFS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwYnNzVVV5X3laUzRsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFGS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwWHVZbDFMdEx6cTlsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFHS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwYklHZmJmSTNUMjdsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFIS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZTR2V0NHR3V3bmxsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFJS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwUTd2ZkxmSU5VeVlsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFKS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwUUJpYTRZY2VVRWdsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFLS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwViFZcUo5VEJubDhsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA"
+              ],
+              "date" : "2026-11-27"
+            },
+            {
+              "effectivetime" : [
+                {
+                  "end" : 1440,
+                  "start" : 0
+                }
+              ],
+              "index" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ],
+              "server_data" : [
+                "cGluZ19kYXRhPUVBRVlOeUFCS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwVEM5UGQ2akZHWlVsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFDS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwYUtMNEMxd2d3cThsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFES0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwWVdUa3Z6ITlNckRsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFFS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwUnB1N1J5aEpSdTRsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFGS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZDNlcmpOWGdJS2JsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFHS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwYl9VRTlmUkNuMzlsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFIS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwVGY4OHd6UHpldUxsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFJS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwWERXZHpTblc3VmxsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFKS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZV9zMGk2YVgzamZsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFLS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwVlA0dFZmb1Y4T0lsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA"
+              ],
+              "date" : "2026-11-28"
+            },
+            {
+              "effectivetime" : [
+                {
+                  "end" : 1440,
+                  "start" : 0
+                }
+              ],
+              "index" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ],
+              "server_data" : [
+                "cGluZ19kYXRhPUVBRVlOeUFCS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZUZDamtacW1NZ3RsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFDS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZUVXUDNqWmJoREZsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFES0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwYVd4M3prQ2Q0IXpsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFFS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwYW1hWVgyM21KTmpsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFGS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwV2FMaUZZQ0QwZkdsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFHS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZG93MXppVFJnV2RsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFIS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZFRGb0ZySU5ZVDJsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFJS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwYmJXSThXSzJid2FsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFKS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwYmpOZ00zTzJGaVRsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFLS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwY25nMlY0NkdMQkJsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA"
+              ],
+              "date" : "2026-11-29"
+            },
+            {
+              "effectivetime" : [
+                {
+                  "end" : 1440,
+                  "start" : 0
+                }
+              ],
+              "index" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ],
+              "server_data" : [
+                "cGluZ19kYXRhPUVBRVlOeUFCS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwYkshbHhRdmFEUDVsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFDS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwUVpzNGVYOExEMFdsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFES0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwVUE5aEF0bGEyWjVsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFFS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwY0pqb1MzdFRQaEpsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFGS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwUzhnaXZyUlNSaEtsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFHS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwYk44ekI2UlZMekFsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFIS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwVmZ6UE9TQTg0djJsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFJS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwZkFuZnN4dFhOb29sY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFKS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwWm5FMXR6UTRNMUpsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA",
+                "cGluZ19kYXRhPUVBRVlOeUFLS0FBdzI2MERPZzEzYVdWdWMyYzJOV2RyZVRWM1FCa192aWV3aWRfR2tjaVZuZ1pHdTlmRGFkNlRnOHYwWjU4SUtZR3hhTmdsY2Z1UVJURkZxIXBXIVhLNWtMTHNBJmV4cD0xMDAmcHZfdHlwZT0yMDA"
+              ],
+              "date" : "2026-11-30"
+            }
+          ],
+          "is_empty" : 1,
+          "apurl" : "https:\/\/p.l.qq.com\/p?ping_data=EAEYNyAKKAAw260DOg13aWVuc2c2NWdreTV3QBk_viewid_GkciVngZGu9fDad6Tg8v0Z58IKYGxaNglcfuQRTFFq!pW!XK5kLLsA&adtype=&appversion=1087586308&select_ad_type=__SELECT_AD_TYPE__",
+          "cl" : "55",
+          "need_empty_report" : 1,
+          "uoid" : "NwAAAAAAAAA="
+        }
+      ],
+      "ret" : 0
+    }
