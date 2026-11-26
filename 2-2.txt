@@ -1,0 +1,73 @@
+let body = {
+  "code" : 200,
+  "reqId" : "62a6862561daa7380b83e03824f03a6a",
+  "data" : {
+    "id" : 3106227,
+    "hasName" : 1,
+    "ipCity" : "IP：上海",
+    "bid" : 3106227,
+    "followStatus" : 4,
+    "hasWxShakeRule" : false,
+    "qqAccessTokenValid" : 0,
+    "unlikeStatus" : 0,
+    "isBind" : 1,
+    "isPrivateFriend" : 0,
+    "isSendInvite" : 0,
+    "payInfo" : {
+      "isSignedBoolean" : false,
+      "isCtVipBoolean" : false,
+      "isCtPayVipBoolean" : false,
+      "ctExpireDate" : 0,
+      "isVip" : 3,
+      "signedCount" : 0,
+      "isVipBoolean" : true,
+      "isBigVipBoolean" : true,
+      "bigExpireDate" : 1796412558668,
+      "signType" : 1,
+      "vipType" : 2,
+      "actVipType" : 2,
+      "bigPayExpireDate" : 1799412558668,
+      "ctPayExpireDate" : 0,
+      "isBigPayVipBoolean" : false,
+      "payExpireDate" : 1796412558660,
+      "actExpireDate" : 1735315199999,
+      "isPayVipBoolean" : true,
+      "isActVipBoolean" : true,
+      "lastPayment" : 1,
+      "payVipType" : 0,
+      "isSigned" : 0,
+      "isFreeCtVip" : false,
+      "signPayType" : 0,
+      "expireDate" : 1799412558668,
+      "grantOrderId" : ""
+    },
+    "payRights" : {
+
+    },
+    "remainActivateDays" : 0,
+    "userInfo" : {
+      "id" : 3106227,
+      "prov" : "上海",
+      "description" : "",
+      "updateTime" : "2026-11-09 11:10:37",
+      "vipType" : 0,
+      "ipCity" : "上海",
+      "isVip" : 2,
+      "authType" : 3,
+      "gender" : 1,
+      "address" : "虹口区",
+      "createTime" : "2021-12-16 22:20:57",
+      "city" : "上海市",
+      "payVipType" : 0,
+      "nickname" : "丿亻亠",
+      "bgImg" : "",
+      "headImg" : "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLCe4Uqvu2S2ftN8MIiak3WexvQwOOBMqogEJDK8p6YMSjyyxBV8w0SMJcMBAvdVNmQ7Y5BLPkhGDew/132",
+      "status" : 1
+    }
+  },
+  "msg" : "success",
+  "profileId" : "site",
+  "curTime" : 1795665637082
+} 
+
+$done({ body: JSON.stringify(body) });
