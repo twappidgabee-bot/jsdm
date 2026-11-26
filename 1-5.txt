@@ -1,0 +1,129 @@
+let body = {
+  "code" : 200,
+  "reqId" : "c1638b0e4e831ba51c1807ccaeffb0f8",
+  "data" : {
+    "freeSplash" : true,
+    "freeInfo" : {
+      "isFree" : 1,
+      "remainFreeSeconds" : 0,
+      "freeExpireDate" : 1796617497,
+      "lossExpireDate" : 1796617497,
+      "code" : 0,
+      "suc" : true,
+      "remainLossSeconds" : 0,
+      "isLockLoss" : 0
+    },
+    "freeAdInfo" : {
+      "csIsFree" : 0,
+      "csRemainSeconds" : 0,
+      "csExpireDate" : 0,
+      "csCanExtend" : 1,
+      "freeAdExpireDate" : 0,
+      "freeAdIsFree" : 0,
+      "freeAdRemainSeconds" : 0
+    },
+    "freeCtDesc" : "",
+    "freeAdLimitSec" : 1796617497,
+    "allDayConfig" : {
+      "fmRewards" : [
+        {
+          "id" : "dev_free_time_1",
+          "min" : 30,
+          "watched" : 1,
+          "type" : 1,
+          "adType" : 1,
+          "ads" : 10
+        }
+      ],
+      "allFmRewards" : [
+        [
+          {
+            "id" : "dev_free_time_1",
+            "min" : 30,
+            "watched" : 1,
+            "type" : 1,
+            "adType" : 1,
+            "ads" : 10
+          }
+        ],
+        [
+          {
+            "id" : "dev_free_time_2",
+            "min" : 30,
+            "watched" : 1,
+            "type" : 1,
+            "adType" : 1,
+            "ads" : 10
+          }
+        ],
+        [
+          {
+            "id" : "dev_free_time_3",
+            "min" : 30,
+            "watched" : 1,
+            "type" : 1,
+            "adType" : 1,
+            "ads" : 10
+          }
+        ],
+        [
+          {
+            "id" : "dev_free_time_4",
+            "min" : 30,
+            "watched" : 1,
+            "type" : 1,
+            "adType" : 1,
+            "ads" : 10
+          }
+        ],
+        [
+          {
+            "id" : "dev_free_time_5",
+            "min" : 30,
+            "watched" : 1,
+            "type" : 1,
+            "adType" : 1,
+            "ads" : 10
+          }
+        ],
+        [
+          {
+            "id" : "dev_free_time_6",
+            "min" : 30,
+            "watched" : 1,
+            "type" : 1,
+            "adType" : 1,
+            "ads" : 10
+          }
+        ],
+        [
+          {
+            "id" : "dev_free_time_7",
+            "min" : 30,
+            "watched" : 1,
+            "type" : 1,
+            "adType" : 1,
+            "ads" : 10
+          }
+        ],
+        [
+          {
+            "id" : "dev_free_time_8",
+            "min" : 30,
+            "watched" : 1,
+            "type" : 1,
+            "adType" : 1,
+            "ads" : 10
+          }
+        ]
+      ]
+    },
+    "freeLossLimitSec" : 1798300799,
+    "fmDefaultMin" : 30
+  },
+  "msg" : "success",
+  "profileId" : "site",
+  "curTime" : 1795661466489
+};
+
+$done({ body: JSON.stringify(body) });
